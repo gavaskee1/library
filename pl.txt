@@ -1,198 +1,196 @@
 <p>A <strong>Personal Loan</strong> is a form of loan availed by individuals on the basis of specific criteria, such as level of income, employment history, credit score, and scope for repayment. The loan is usually taken for the fulfillment of personal needs from a banking institution or a non-banking financial company (NBFC). Borrowers can use online tools available at neutral financial websites, such as the Personal Loan EMI Calculator, to assess the interest payout throughout the tenure before applying for a personal loan.</p>
 
-<div class="row btm-pad">
-   <div class="col-md-12">
-      <h2 class="tcenter"> ${productType} Interest Rates<sub>Updated on ${date}</sub></h2>
-   </div>
-</div>
-<div class="row btm-pad" id="interest-rate-section">
-   <div class="container">
-      <div class="col-md-12 ir-section">
-         <div class="row product-hl-table">
-            <div class="col-md-12 product-hl-table-head">
-               <span> Personal Loan Details</span>
-            </div>
-            <div class="hungry-table nb-table">
-               <table class="table table-curved">
-                  <tbody>
-                     <tr>
-                        <td>Interest Rate (Monthly reducing balance)</td>
-                        <td> 10.99% - 37.00%</td>
-                     </tr>
-                     <tr>
-                        <td>Processing Fees</td>
-                        <td> Varies with bank</td>
-                     </tr>
-                     <tr>
-                        <td>Loan Tenure</td>
-                        <td>1 year to 5 years</td>
-                     </tr>
-                     <tr>
-                        <td>Pre-closure Charges</td>
-                        <td> Varies with bank </td>
-                     </tr>
-                     <tr>
-                        <td>Guarantor Requirement</td>
-                        <td>Varies with bank </td>
-                     </tr>
-                  </tbody>
-               </table>
-            </div>
-         </div>
-      </div>
-   </div>
+<h2 class="tcenter"> ${productType} Interest Rates<sub>Updated on ${date}</sub></h2>
+
+<div class="hungry-table nb-table" id="interest-rate-section">
+  <table class="table table-curved">
+    <tbody>
+    <tr><td colspan="2" class="product-hl-table-head">Personal Loan Details</td></tr>
+    <tr>
+      <td>Interest Rate (Monthly reducing balance)</td>
+      <td> 10.99% - 37.00%</td>
+    </tr>
+    <tr>
+      <td>Processing Fees</td>
+      <td> Varies with bank</td>
+    </tr>
+    <tr>
+      <td>Loan Tenure</td>
+      <td>1 year to 5 years</td>
+    </tr>
+    <tr>
+      <td>Pre-closure Charges</td>
+      <td> Varies with bank </td>
+    </tr>
+    <tr>
+      <td>Guarantor Requirement</td>
+      <td>Varies with bank </td>
+    </tr>
+    </tbody>
+  </table>
 </div>
 <div class="pull-right top-pad btm-pad tax-img-responsive">
-   <a href="/personal-loan.html?catStyleNeeded=true&amp;variantOptions=emailOptional,mobileOptional">
-   <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" class="img-responsive lazy" data-original="/images/india/infographic/personal-loan-1.png" title="Apply for Personal Loan" alt="Apply for Personal Loan"></a>
+  <a href="/personal-loan.html?catStyleNeeded=true&amp;variantOptions=emailOptional,mobileOptional"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" class="img-responsive lazy" data-original="/images/india/infographic/personal-loan-1.png" title="Apply for Personal Loan" alt="Apply for Personal Loan"></a>
 </div>
 <h2>Why choose a Personal Loan? </h2>
 <p>A temporary financial crisis can happen to anyone irrespective of his or her overall financial status. Personal loans are a great way to offset any such temporary financial crisis as it allows the users to avail a loan without any pre conditions on the usage of funds. Personal loans have a quick approval mechanism with loans getting cleared as early as within 24-48 hours of the loan application submission.</p>
 <ul>
-   <li><strong>Easy Availability:</strong> Easy availability is one of the biggest advantages of a personal loan. Almost all banks and on banking financial companies offer personal loans for it’s customers. Personal loans are not very expensive and are available at reasonable interest rates making them a lucrative option to overcome any immediate financial need.</li>
-   <li><strong>Minimal Documentation:</strong> Getting a personal loan does not warrant any long process of asset verification and require minimal documentation. Personal loans are quickly disbursed due to the fact that they seek minimal documentation for loan approval.</li>
-   <li><strong>Quick Loan Approval:</strong> Personal loans today come with a quick loan approval mechanism. Loans are approved almost instantly for online personal loan requests. Users requesting for a personal loan can expect a loan disbursal within one or two working days making the whole loan process swift and hassle-free.</li>
+  <li><strong>Easy Availability:</strong> Easy availability is one of the biggest advantages of a personal loan. Almost all banks and on banking financial companies offer personal loans for it's customers. Personal loans are not very expensive and are available at reasonable interest rates making them a lucrative option to overcome any immediate financial need.</li>
+  <li><strong>Minimal Documentation:</strong> Getting a personal loan does not warrant any long process of asset verification and require minimal documentation. Personal loans are quickly disbursed due to the fact that they seek minimal documentation for loan approval.</li>
+  <li><strong>Quick Loan Approval:</strong> Personal loans today come with a quick loan approval mechanism. Loans are approved almost instantly for online personal loan requests. Users requesting for a personal loan can expect a loan disbursal within one or two working days making the whole loan process swift and hassle-free.</li>
 </ul>
-<a href="http://bit.ly/2uA53yQ">
-<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" class="img-responsive lazy" data-original ="/images/india/infographic/flash-personal-loan-super-duper-deals-banner-750.png" title="Apply for Personal Loan Online" alt="Apply for Personal Loan Online"></a>
+<a href="http://bit.ly/2uA53yQ"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" class="img-responsive lazy" data-original ="/images/india/infographic/flash-personal-loan-super-duper-deals-banner-750.png" title="Apply for Personal Loan Online" alt="Apply for Personal Loan Online"></a>
 <h2>Key features of Personal Loans</h2>
 <ul>
-   <li><strong>Flexibility to Use Funds:</strong> Unlike other loan options, the funds borrowed through a personal loan can be used freely as per the needs of the individual borrower. Personal loans can be used to overcome financial hardships related to marriage expenses, medical costs, house renovation expenses, etc. It can also be used to fulfill any other financial need of the borrower without any preconditions.</li>
-   <li><strong>No Security:</strong> Personal loans are approved based on the income details and financial history of the borrower and not over any fixed asset as security or collateral. Since personal loans do not require any collateral or security to be mortgaged with the bank for loan approval, they are easy to use for a vast majority of people. </li>
-   <li><strong>Flexible Quantum of Loan:</strong> Based on the borrower’s financial history and credit report, personal loans are available for expenses as low as Rs.10,000 to as high as Rs.20 lakh, depending on the bank or NBFC concerned.</li>
-   <li><strong>Flexible Tenure:</strong> The tenure of a personal loan is also quite broad depending on the bank and the loan amount. Personal loans are available for a tenure period ranging from 12 months to 60 months, making it an ideal financial instrument compared to other options like credit card loan or <a href="/personal-loan/gold-loan.html">gold loan.</a></li>
+  <li><strong>Flexibility to Use Funds:</strong> Unlike other loan options, the funds borrowed through a personal loan can be used freely as per the needs of the individual borrower. Personal loans can be used to overcome financial hardships related to marriage expenses, medical costs, house renovation expenses, etc. It can also be used to fulfill any other financial need of the borrower without any preconditions.</li>
+  <li><strong>No Security:</strong> Personal loans are approved based on the income details and financial history of the borrower and not over any fixed asset as security or collateral. Since personal loans do not require any collateral or security to be mortgaged with the bank for loan approval, they are easy to use for a vast majority of people. </li>
+  <li><strong>Flexible Quantum of Loan:</strong> Based on the borrower's financial history and credit report, personal loans are available for expenses as low as Rs.10,000 to as high as Rs.20 lakh, depending on the bank or NBFC concerned.</li>
+  <li><strong>Flexible Tenure:</strong> The tenure of a personal loan is also quite broad depending on the bank and the loan amount. Personal loans are available for a tenure period ranging from 12 months to 60 months, making it an ideal financial instrument compared to other options like credit card loan or <a href="/personal-loan/gold-loan.html">gold loan.</a></li>
 </ul>
 <h2>Top Benefits of applying for a Personal Loan</h2>
 <div class="col-md-12 lp-widget lp-widget-table clearfix">
-   <div class="lp-widget-panel  col-xs-12 col-sm-3 pad-none">
-      <div class="lp-widget-details  text-center">
-         <img alt="Consolidate debts" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-original="/images/india/infographic/consolidate-debts-1.png" class="img-responsive lazy">
-         <strong class="center-block font-md top-pad-10">Consolidate debts</strong>
-         <div class="tb-pad-10 text-center lh-default clearfix">
+  <style>
+    .top-b-big-ticket-1, .top-b-consolidate-debts-1, .top-b-credit-score-11, .top-b-fixed-monthly, .top-b-flexible-debt-1,
+    .top-b-paperless-1, .top-b-quick-loan, .top-b-tenure-1
+    { display: inline-block; background: url('https://www.bankbazaar.com/images/india/infographic/top-benefits-spite.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left;  width: 238px; height: 110px; }
+    .top-b-big-ticket-1 { background-position: -0px -0px;}
+    .top-b-consolidate-debts-1 { background-position: -238px -0px;}
+    .top-b-credit-score-11 { background-position: -0px -110px;}
+    .top-b-fixed-monthly { background-position: -238px -110px;}
+    .top-b-flexible-debt-1 { background-position: -0px -220px;}
+    .top-b-paperless-1 { background-position: -238px -220px;}
+    .top-b-quick-loan { background-position: -0px -330px;}
+    .top-b-tenure-1 { background-position: -238px -330px;}
+  </style>
+  <div class="lp-widget-panel  col-xs-12 col-sm-3 pad-none">
+    <div class="lp-widget-details  text-center">
+      <div class="top-b-consolidate-debts-1"></div>
+      <strong class="center-block font-md top-pad-10">Consolidate debts</strong>
+      <div class="tb-pad-10 text-center lh-default clearfix">
             <span class=" clearfix">You can transfer all your credit card debts into one personal loan. This helps you manage the loan in a better way and avoid defaulting on the repayment.
             </span>
-         </div>
       </div>
-   </div>
-   <div class="lp-widget-panel  col-xs-12 col-sm-3 pad-none">
-      <div class="lp-widget-details text-center">
-         <img alt="Flexible" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-original="/images/india/infographic/flexible-debt-1.png" class="img-responsive lazy">
-         <strong class="center-block  font-md top-pad-10">Flexible</strong>
-         <div class="tb-pad-10 text-center lh-default clearfix">
+    </div>
+  </div>
+  <div class="lp-widget-panel  col-xs-12 col-sm-3 pad-none">
+    <div class="lp-widget-details text-center">
+      <div class="top-b-flexible-debt-1"></div>
+      <strong class="center-block  font-md top-pad-10">Flexible</strong>
+      <div class="tb-pad-10 text-center lh-default clearfix">
             <span class="clearfix">The money borrowed through a personal loan can be used by the borrower in whatever way he/she requires. The loan amount is not limited in its use like other debts such as home loan, car loan, etc.
             </span>
-         </div>
       </div>
-   </div>
-   <div class="lp-widget-panel   col-xs-12 col-sm-3 pad-none">
-      <div class="lp-widget-details text-center">
-         <img alt="Fixed monthly installments" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-original="/images/india/infographic/fixed-monthly.png" class="img-responsive lazy">
-         <strong class="center-block font-md top-pad-10">Fixed monthly installments</strong>
-         <div class="tb-pad-10 text-center lh-default clearfix">
+    </div>
+  </div>
+  <div class="lp-widget-panel   col-xs-12 col-sm-3 pad-none">
+    <div class="lp-widget-details text-center">
+      <div class="top-b-fixed-monthly"></div>
+      <strong class="center-block font-md top-pad-10">Fixed monthly installments</strong>
+      <div class="tb-pad-10 text-center lh-default clearfix">
             <span class="tclearfix">The repayment of personal loans can be done in fixed monthly payments. This helps the borrower to plan his/her expenses and make loan repayments in a comfortable manner.
             </span>
-         </div>
       </div>
-   </div>
-   <div class="lp-widget-panel  col-xs-12 col-sm-3 pad-none">
-      <div class="lp-widget-details  text-center">
-         <img alt="Quick loan approval" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-original="/images/india/infographic/quick-loan.png" class="img-responsive lazy">
-         <strong class="center-block font-md top-pad-10">Quick loan approval</strong>
-         <div class="tb-pad-10 text-center lh-default clearfix">
+    </div>
+  </div>
+  <div class="lp-widget-panel col-xs-12 col-sm-3 pad-none">
+    <div class="lp-widget-details  text-center">
+      <div class="top-b-quick-loan"></div>
+      <strong class="center-block font-md top-pad-10">Quick loan approval</strong>
+      <div class="tb-pad-10 text-center lh-default clearfix">
             <span class=" clearfix">The approval process for personal loans is quick and the loan amount is disbursed within 2-3 working days.
             </span>
-         </div>
       </div>
-   </div>
+    </div>
+  </div>
 </div>
 <div class="col-md-12 lp-widget lp-widget-table clearfix">
-   <div class="lp-widget-panel  col-xs-12 col-sm-3 pad-none">
-      <div class="lp-widget-details  text-center">
-         <img alt="Paperless" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-original="/images/india/infographic/paperless-1.png" class="img-responsive lazy">
-         <strong class="center-block font-md top-pad-10">Paperless</strong>
-         <div class="tb-pad-10 text-center lh-default clearfix">
+  <div class="lp-widget-panel col-xs-12 col-sm-3 pad-none">
+    <div class="lp-widget-details  text-center">
+      <div class="top-b-paperless-1"></div>
+      <strong class="center-block font-md top-pad-10">Paperless</strong>
+      <div class="tb-pad-10 text-center lh-default clearfix">
             <span class=" clearfix">The personal loan application process is completely paperless at BankBazaar! This actually reduces the turnaround time and ensures complete safety, as there are no chances of misplacing your loan documents. You also end up saving a lot of trees through this hassle-free process!
             </span>
-         </div>
       </div>
-   </div>
-   <div class="lp-widget-panel  col-xs-12 col-sm-3 pad-none">
-      <div class="lp-widget-details text-center">
-         <img alt="Flexibility in tenure" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-original="/images/india/infographic/tenure-1.png" class="img-responsive lazy">
-         <strong class="center-block  font-md top-pad-10">Flexibility in tenure</strong>
-         <div class="tb-pad-10 text-center lh-default clearfix">
+    </div>
+  </div>
+  <div class="lp-widget-panel col-xs-12 col-sm-3 pad-none">
+    <div class="lp-widget-details text-center">
+      <div class="top-b-tenure-1"></div>
+      <strong class="center-block  font-md top-pad-10">Flexibility in tenure</strong>
+      <div class="tb-pad-10 text-center lh-default clearfix">
             <span class="clearfix">Personal loans are offered in India for a period of 1 to 5 years. The borrower can choose the repayment period based on his/her convenience.
             </span>
-         </div>
       </div>
-   </div>
-   <div class="lp-widget-panel   col-xs-12 col-sm-3 pad-none">
-      <div class="lp-widget-details text-center">
-         <img alt="Credit score" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-original="/images/india/infographic/credit-score-11.png" class="img-responsive lazy">
-         <strong class="center-block font-md top-pad-10">Credit score</strong>
-         <div class="tb-pad-10 text-center lh-default clearfix">
+    </div>
+  </div>
+  <div class="lp-widget-panel col-xs-12 col-sm-3 pad-none">
+    <div class="lp-widget-details text-center">
+      <div class="top-b-credit-score-11"></div>
+      <strong class="center-block font-md top-pad-10">Credit score</strong>
+      <div class="tb-pad-10 text-center lh-default clearfix">
             <span class="tclearfix">Paying your personal loan monthly installments on time can help in improving your credit score. This will have an overall positive effect on your creditworthiness and help you in getting financial products easily in the future.
             </span>
-         </div>
       </div>
-   </div>
-   <div class="lp-widget-panel   col-xs-12 col-sm-3 pad-none">
-      <div class="lp-widget-details text-center">
-         <img alt="Suitable for big-ticket purchases" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-original="/images/india/infographic/big-ticket-1.png" class="img-responsive lazy">
-         <strong class="center-block font-md top-pad-10">Big Ticket Purchases</strong>
-         <div class="tb-pad-10 text-center lh-default clearfix">
+    </div>
+  </div>
+  <div class="lp-widget-panel col-xs-12 col-sm-3 pad-none">
+    <div class="lp-widget-details text-center">
+      <div class="top-b-big-ticket-1"></div>
+      <strong class="center-block font-md top-pad-10">Big Ticket Purchases</strong>
+      <div class="tb-pad-10 text-center lh-default clearfix">
             <span class="tclearfix">A personal loan is the best answer to a cash crunch when you are looking to invest in a business venture or for repairing your vehicle. All salaried and self-employed professionals are eligible to apply for a personal loan, provided they also fulfill the other eligibility criteria.
             </span>
-         </div>
       </div>
-   </div>
+    </div>
+  </div>
 </div>
 <h2>Personal Loan Eligibility</h2>
-<p>Various banks and NBFC’s offer personal loans to all applicants fulfilling their basic eligibility criteria. While different banks have different minimum eligibility criteria, the criteria common for most banks and NBFCs for individuals requesting a personal loan include:</p>
+<p>Various banks and NBFC's offer personal loans to all applicants fulfilling their basic eligibility criteria. While different banks have different minimum eligibility criteria, the criteria common for most banks and NBFCs for individuals requesting a personal loan include:</p>
 <div class="hungry-table nb-table">
-   <table class="table table-bordered table-striped col-md-12">
-      <thead>
-         <tr>
-            <th class="table-header">Particulars</th>
-            <th class="table-header">Salaried</th>
-            <th class="table-header">Self-Employed</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>Age</td>
-            <td>21 years to 60 years</td>
-            <td>22 years to 55 years</td>
-         </tr>
-         <tr>
-            <td>Net monthly income</td>
-            <td>Rs.15,000 (Rs.20,000 in metro cities)</td>
-            <td>Rs.25,000</td>
-         </tr>
-         <tr>
-            <td>CIBIL Score</td>
-            <td>Above 750</td>
-            <td>Above 750</td>
-         </tr>
-         <tr>
-            <td>Minimum Loan Amount</td>
-            <td>Rs.50,000</td>
-            <td>Rs.50,000</td>
-         </tr>
-         <tr>
-            <td>Maximum Loan Amount</td>
-            <td>Rs.15 lakh</td>
-            <td>Rs.30 lakh</td>
-         </tr>
-      </tbody>
-   </table>
+  <table class="table table-bordered table-striped col-md-12">
+    <thead>
+    <tr>
+      <th class="table-header">Particulars</th>
+      <th class="table-header">Salaried</th>
+      <th class="table-header">Self-Employed</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td>Age</td>
+      <td>21 years to 60 years</td>
+      <td>22 years to 55 years</td>
+    </tr>
+    <tr>
+      <td>Net monthly income</td>
+      <td>Rs.15,000 (Rs.20,000 in metro cities)</td>
+      <td>Rs.25,000</td>
+    </tr>
+    <tr>
+      <td>CIBIL Score</td>
+      <td>Above 750</td>
+      <td>Above 750</td>
+    </tr>
+    <tr>
+      <td>Minimum Loan Amount</td>
+      <td>Rs.50,000</td>
+      <td>Rs.50,000</td>
+    </tr>
+    <tr>
+      <td>Maximum Loan Amount</td>
+      <td>Rs.15 lakh</td>
+      <td>Rs.30 lakh</td>
+    </tr>
+    </tbody>
+  </table>
 </div>
 <div class="col-md-12 link-section" style="text-align:right">
-   <p class="list-group-item list-group-blue">Check <strong><a href="/personal-loan-eligibility.html" title="Personal Loan Eligibility Criteria">Personal Loan Eligibility</a></strong> of Top Indian Banks</p>
+  <p class="list-group-item list-group-blue">Check <strong><a href="/personal-loan-eligibility.html" title="Personal Loan Eligibility Criteria">Personal Loan Eligibility</a></strong> of Top Indian Banks</p>
 </div>
 <h2>Why should you apply for a Personal Loan on Bankbazaar.com</h2>
 <p>BankBazaar.com, India's premier financial market place has collaborated with various public sector and private banks to offer customized personal loans for its users. An individual can apply for a <em>personal loan</em> online through the BankBazaar website.</p>
-<p><strong>Easy Eligibility Check:</strong> The <a href="/finance-tools/emi-calculator.html">loan calculator tool</a> at BankBazaar.com checks for the user’s personal loan eligibility instantly. The tool also offers customized quotes for all eligible users as per their financial credit history and eligibility criteria.</p>
+<p><strong>Easy Eligibility Check:</strong> The <a href="/finance-tools/emi-calculator.html">loan calculator tool</a> at BankBazaar.com checks for the user's personal loan eligibility instantly. The tool also offers customized quotes for all eligible users as per their financial credit history and eligibility criteria.</p>
 <p><strong>Instant Quotes:</strong> The eligible loan applicants are offered instant quotes on personal loan interest rates.</p>
 <p><strong>Real time Loan Comparison:</strong> BankBazaar.com also offers a simple online personal loan comparison tool allowing users to compare the loan offers of various banks. Feedback shared by previous personal loan applicants is useful for new applicants to get the best personal loan deal.</p>
 <p><strong>Instant e-Approval:</strong> The applicant gets an instant e-approval after successfully submitting his or her personal loan application.</p>
@@ -205,50 +203,50 @@
 <p>The application is sent electronically to the selected bank. The loan department of the concerned bank gets in touch with the applicant directly. Users can check the status of their loan application through SMS alerts as well as emails.</p>
 <h2>Top Banks Providing Personal Loans in India</h2>
 <ul>
-   <li>
-      <strong>HDFC Personal Loan:</strong>
-      <p>The personal loan offered by HDFC Bank is available for different tenures. Flexible repayment facility and attractive interest rates are other features of the loan. Pre-approved loans are provided to existing customers of the bank in under 10 seconds. Other customers can get a personal loan approved within 4 hours. The loan amount can go up to Rs.40 lakh as well.</p>
-   </li>
-   <li>
-      <strong>ICICI Personal Loan :</strong>
-      <p>The personal loan offered by ICICI Bank can be used for any purpose as per the needs of the customer. The tenure of the loan can be up to 60 months and the interest rate is fixed. The interest is charged in a monthly reducing manner on the loan amount. Customers can employ PDC, ESC or auto-debit for the EMI repayment on a monthly basis. The maximum loan amount offered is Rs.20 lakh.</p>
-   </li>
-   <li>
-      <strong>Bajaj Finserv (Finance) Personal Loan :</strong>
-      <p>Bajaj Finserv offers personal loans up to Rs.25 lakh with flexible payment options and minimal documentation. Loans can be repaid based on the convenience of the customer within 12 to 60 months. The Flexi Personal Loan product from the bank enables customers to borrow funds with lower EMI. The bank approves personal loan applications within 5 minutes and the funds are disbursed within 24 hours as well.</p>
-   </li>
-   <li>
-      <strong>SBI Personal Loan :</strong>
-      <p>The State Bank of India (SBI) offers three different kinds of personal loans to customers:</p>
-      <ul>
-         <li><strong>Xpress Credit Loan</strong> - This personal loan product is offered to an individual having a salary account with SBI. The loan product comes with relatively lower interest rates and low processing fees. The customer has to provide only minimal documentation for the loan approval. The minimum loan amount is Rs.25,000 for a term loan while the maximum can go up to 24 times the net monthly income of the applicant, as long as the maximum does not exceed Rs.15 lakh. The repayment period can go up to 60 months as well.</li>
-         <li><strong>SBI Pension Loan</strong> - Central/State Government employees and defence pensioners who are drawing pension from one of the SBI branches can get an SBI Pension Loan. The applicant should not be more than 76 years of age. The loan has nominal processing fees and no hidden costs. The minimum loan amount is Rs.25,000 and the maximum amount varies based on several factors.</li>
-         <li><strong>Xpress Power</strong> - This loan is offered to salaried individuals who do not have a salary account with the bank. The minimum loan amount is Rs.25,000 and the maximum amount is 24 times the net monthly income (NMI). Term loan or overdraft facility can be opted for.</li>
-      </ul>
-   </li>
-   <li>
-      <strong>Axis Bank Personal Loan: </strong>
-      <p>Axis Bank offers personal loans from Rs.50,000 to Rs.15 lakh to customers. The loan approval process is speedy and only minimal documentation is required. The minimum age of the applicant should be 21 years and the age at the time of loan maturity should not be more than 60 years. The applicant should also have a net monthly income of Rs.15,000. The loan repayment tenure is between 12 and 60 months.</p>
-   </li>
+  <li>
+    <strong>HDFC Personal Loan:</strong>
+    <p>The personal loan offered by HDFC Bank is available for different tenures. Flexible repayment facility and attractive interest rates are other features of the loan. Pre-approved loans are provided to existing customers of the bank in under 10 seconds. Other customers can get a personal loan approved within 4 hours. The loan amount can go up to Rs.40 lakh as well.</p>
+  </li>
+  <li>
+    <strong>ICICI Personal Loan :</strong>
+    <p>The personal loan offered by ICICI Bank can be used for any purpose as per the needs of the customer. The tenure of the loan can be up to 60 months and the interest rate is fixed. The interest is charged in a monthly reducing manner on the loan amount. Customers can employ PDC, ESC or auto-debit for the EMI repayment on a monthly basis. The maximum loan amount offered is Rs.20 lakh.</p>
+  </li>
+  <li>
+    <strong>Bajaj Finserv (Finance) Personal Loan :</strong>
+    <p>Bajaj Finserv offers personal loans up to Rs.25 lakh with flexible payment options and minimal documentation. Loans can be repaid based on the convenience of the customer within 12 to 60 months. The Flexi Personal Loan product from the bank enables customers to borrow funds with lower EMI. The bank approves personal loan applications within 5 minutes and the funds are disbursed within 24 hours as well.</p>
+  </li>
+  <li>
+    <strong>SBI Personal Loan :</strong>
+    <p>The State Bank of India (SBI) offers three different kinds of personal loans to customers:</p>
+    <ul>
+      <li><strong>Xpress Credit Loan</strong> - This personal loan product is offered to an individual having a salary account with SBI. The loan product comes with relatively lower interest rates and low processing fees. The customer has to provide only minimal documentation for the loan approval. The minimum loan amount is Rs.25,000 for a term loan while the maximum can go up to 24 times the net monthly income of the applicant, as long as the maximum does not exceed Rs.15 lakh. The repayment period can go up to 60 months as well.</li>
+      <li><strong>SBI Pension Loan</strong> - Central/State Government employees and defence pensioners who are drawing pension from one of the SBI branches can get an SBI Pension Loan. The applicant should not be more than 76 years of age. The loan has nominal processing fees and no hidden costs. The minimum loan amount is Rs.25,000 and the maximum amount varies based on several factors.</li>
+      <li><strong>Xpress Power</strong> - This loan is offered to salaried individuals who do not have a salary account with the bank. The minimum loan amount is Rs.25,000 and the maximum amount is 24 times the net monthly income (NMI). Term loan or overdraft facility can be opted for.</li>
+    </ul>
+  </li>
+  <li>
+    <strong>Axis Bank Personal Loan: </strong>
+    <p>Axis Bank offers personal loans from Rs.50,000 to Rs.15 lakh to customers. The loan approval process is speedy and only minimal documentation is required. The minimum age of the applicant should be 21 years and the age at the time of loan maturity should not be more than 60 years. The applicant should also have a net monthly income of Rs.15,000. The loan repayment tenure is between 12 and 60 months.</p>
+  </li>
 </ul>
 <h2>Choosing the right Personal Loan</h2>
-<p>BankBazaar.com offers users the opportunity to choose from the best personal loan products in India as per the borrower’s repayment capacity and choice of tenure. BankBazaar.com offers customized personal loan quotes from various banks and non-banking financial companies. Users can choose the most suited bank or NBFC for their personal loan requests as per the charges and other features. </p>
+<p>BankBazaar.com offers users the opportunity to choose from the best personal loan products in India as per the borrower's repayment capacity and choice of tenure. BankBazaar.com offers customized personal loan quotes from various banks and non-banking financial companies. Users can choose the most suited bank or NBFC for their personal loan requests as per the charges and other features. </p>
 <h2>Documentation needed to Apply for a Personal Loan</h2>
 <p>Different banks and NBFCs have different minimum documentation requirement for personal loans. The common documents required by most banks and NBFCs for individuals requesting a personal loan include :</p>
 <h3>Documents for Salaried Individuals: </h3>
 <ul>
-   <li>Proof of Identity: Passport, Driving License, Voters ID or PAN Card </li>
-   <li>Proof of Residence:-Passport or utility bills</li>
-   <li>Latest 3 months Bank Statement of Salary Account</li>
-   <li>Salary slips for last 3 months.</li>
+  <li>Proof of Identity: Passport, Driving License, Voters ID or PAN Card </li>
+  <li>Proof of Residence:-Passport or utility bills</li>
+  <li>Latest 3 months Bank Statement of Salary Account</li>
+  <li>Salary slips for last 3 months.</li>
 </ul>
 <h3>Documents for Self-Employed: </h3>
 <ul>
-   <li>Proof of Identity: Passport, Driving License, Voters ID or PAN Card </li>
-   <li>Proof of Residence:-Passport or utility bills</li>
-   <li>Income proof: Audited financials for the last two years.</li>
-   <li>Last 6 months Bank statement.</li>
-   <li>Office address proof.</li>
+  <li>Proof of Identity: Passport, Driving License, Voters ID or PAN Card </li>
+  <li>Proof of Residence:-Passport or utility bills</li>
+  <li>Income proof: Audited financials for the last two years.</li>
+  <li>Last 6 months Bank statement.</li>
+  <li>Office address proof.</li>
 </ul>
 <h2> How to calculate EMI for Personal Loans?</h2>
 <p>EMI calculation for personal loan is now made easy using the <a href="/finance-tools/emi-calculator.html" title="EMI calculator">EMI calculator</a> available at BankBazaar.com. The tool gives users the option of changing the loan amount and tenure while calculating the EMI for the personal loan. EMI calculator tool is a great option that allows users to see their monthly installments towards the loan. It helps them choose the most suitable loan as per their budget.</p>
@@ -256,143 +254,145 @@
 <p>You can check out the following personal loan EMI calculator table to get an idea about how EMIs are computed for personal loans. It illustrates the different EMIs you will have to pay for different loan tenures according to the loan amount you choose.</p>
 <p>For the following table, we have assumed that the interest rate is 10.99% and that the processing fee is 2%. The processing fee is usually a certain percentage of your personal loan amount. If you are using the BankBazaar personal loan EMI calculator, you can specify if you want to make pre-payments or not. You can accordingly select the option. If you want to make pre-payments, you will have to mention the pre-payment frequency, pre-payment fee, and pre-payment amount.</p>
 <div class="hungry-table nb-table">
-   <table class="table table-curved">
-      <tbody>
-         <tr>
-            <td><strong>Loan Amount</strong></td>
-            <td><strong>Interest Rate</strong></td>
-            <td><strong>EMI for 1 Year</strong></td>
-            <td><strong>EMI for 2 Years</strong></td>
-            <td><strong>EMI for 3 Years</strong></td>
-            <td><strong>EMI for 4 Years</strong></td>
-            <td><strong>EMI for 5 Years</strong></td>
-         </tr>
-         <tr>
-            <td>3 Lakhs</td>
-            <td>10.99%</td>
-            <td>26,513</td>
-            <td>13,981</td>
-            <td>9,820</td>
-            <td>7,752</td>
-            <td>6,521</td>
-         </tr>
-         <tr>
-            <td>4 Lakhs</td>
-            <td>10.99%</td>
-            <td>35,351</td>
-            <td>18,641</td>
-            <td>13,094</td>
-            <td>10,336</td>
-            <td>8,695</td>
-         </tr>
-         <tr>
-            <td>5 Lakhs</td>
-            <td>10.99%</td>
-            <td>44,188</td>
-            <td>23,302</td>
-            <td>16,367</td>
-            <td>12,920</td>
-            <td>10,869</td>
-         </tr>
-         <tr>
-            <td>7 Lakhs</td>
-            <td>10.99%</td>
-            <td>61,864</td>
-            <td>32,622</td>
-            <td>22,914</td>
-            <td>18,088</td>
-            <td>15,216</td>
-         </tr>
-         <tr>
-            <td>10 Lakhs</td>
-            <td>10.99%</td>
-            <td>88,377</td>
-            <td>46,603</td>
-            <td>32,734</td>
-            <td>25,841</td>
-            <td>21,737</td>
-         </tr>
-         <tr>
-            <td>13 Lakhs</td>
-            <td>10.99%</td>
-            <td>1,14,890</td>
-            <td>60,584</td>
-            <td>42,554</td>
-            <td>33,593</td>
-            <td>28,259</td>
-         </tr>
-         <tr>
-            <td>15 Lakhs</td>
-            <td>10.99%</td>
-            <td>1,32,565</td>
-            <td>69,905</td>
-            <td>49,101</td>
-            <td>38,761</td>
-            <td>32,606</td>
-         </tr>
-         <tr>
-            <td>20 Lakhs</td>
-            <td>10.99%</td>
-            <td>1,76,754</td>
-            <td>93,206</td>
-            <td>65,468</td>
-            <td>51,681</td>
-            <td>43,475</td>
-         </tr>
-         <tr>
-            <td>30 Lakhs</td>
-            <td>10.99%</td>
-            <td>2,65,131</td>
-            <td>1,39,810</td>
-            <td>98,202</td>
-            <td>77,522</td>
-            <td>65,212</td>
-         </tr>
-      </tbody>
-   </table>
+  <table class="table table-curved">
+    <thead>
+    <tr>
+      <th>Loan Amount</th>
+      <th>Interest Rate</th>
+      <th>EMI for 1 Year</th>
+      <th>EMI for 2 Years</th>
+      <th>EMI for 3 Years</th>
+      <th>EMI for 4 Years</th>
+      <th>EMI for 5 Years</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td>3 Lakhs</td>
+      <td>10.99%</td>
+      <td>26,513</td>
+      <td>13,981</td>
+      <td>9,820</td>
+      <td>7,752</td>
+      <td>6,521</td>
+    </tr>
+    <tr>
+      <td>4 Lakhs</td>
+      <td>10.99%</td>
+      <td>35,351</td>
+      <td>18,641</td>
+      <td>13,094</td>
+      <td>10,336</td>
+      <td>8,695</td>
+    </tr>
+    <tr>
+      <td>5 Lakhs</td>
+      <td>10.99%</td>
+      <td>44,188</td>
+      <td>23,302</td>
+      <td>16,367</td>
+      <td>12,920</td>
+      <td>10,869</td>
+    </tr>
+    <tr>
+      <td>7 Lakhs</td>
+      <td>10.99%</td>
+      <td>61,864</td>
+      <td>32,622</td>
+      <td>22,914</td>
+      <td>18,088</td>
+      <td>15,216</td>
+    </tr>
+    <tr>
+      <td>10 Lakhs</td>
+      <td>10.99%</td>
+      <td>88,377</td>
+      <td>46,603</td>
+      <td>32,734</td>
+      <td>25,841</td>
+      <td>21,737</td>
+    </tr>
+    <tr>
+      <td>13 Lakhs</td>
+      <td>10.99%</td>
+      <td>1,14,890</td>
+      <td>60,584</td>
+      <td>42,554</td>
+      <td>33,593</td>
+      <td>28,259</td>
+    </tr>
+    <tr>
+      <td>15 Lakhs</td>
+      <td>10.99%</td>
+      <td>1,32,565</td>
+      <td>69,905</td>
+      <td>49,101</td>
+      <td>38,761</td>
+      <td>32,606</td>
+    </tr>
+    <tr>
+      <td>20 Lakhs</td>
+      <td>10.99%</td>
+      <td>1,76,754</td>
+      <td>93,206</td>
+      <td>65,468</td>
+      <td>51,681</td>
+      <td>43,475</td>
+    </tr>
+    <tr>
+      <td>30 Lakhs</td>
+      <td>10.99%</td>
+      <td>2,65,131</td>
+      <td>1,39,810</td>
+      <td>98,202</td>
+      <td>77,522</td>
+      <td>65,212</td>
+    </tr>
+    </tbody>
+  </table>
 </div>
 <h2>Tips to Keep in Mind While Applying for a Personal Loan</h2>
 <ul>
-   <li><strong>Assess the need for your personal loan:</strong> You will need to be clear about the need for your personal loan. You can take it for funding your wedding arrangements, paying your hospital bills, buying medicines, etc. Before you apply for the loan, you will need to assess if you really want the loan. If you are planning to take a personal loan for investing in shares or other financial instruments, then it may not be a great idea.</li>
-   <li><strong>Do proper research to get the best rate for your personal loan:</strong> You can do online research by visiting third-party financial websites or by going to the banks’ official websites to compare different interest rates for personal loans. This will help you get a proper idea about the costs that you will incur.</li>
-   <li><strong>Check your credit history:</strong> Before you proceed to apply for a personal loan from any bank or NBFC, you will need to assess your credit history thoroughly. This will give you an idea about the loan amount that you will receive. You need to make sure your credit history looks decent before you apply for a loan.</li>
-   <li><strong>Review the fine print on your loan document carefully:</strong> Make sure you read the personal loan details carefully as this will give you a clear understanding of the commitment you are making in terms of the repayment.</li>
-   <li><strong>Choose your personal loan tenure by assessing your repayment ability:</strong> A personal loan typically ranges from 1 to 5 years. You can fix the loan tenure according to your loan amount, your other monthly expenses, and the income that you earn on a monthly basis.</li>
-   <li><strong>Choose an affordable interest rate:</strong> Ensure that you choose an economical interest rate for your personal loan. With a low-interest rate, your loan expenses will be low and you can repay it without any hassle. You will also avoid any defaults on loans.</li>
-   <li><strong>Select your personal loan amount as per your convenience:</strong> You can choose your personal loan amount depending on your repayment capability, your income, and your expenditures.</li>
-   <li><strong>Check your EMIs properly:</strong> You will need to compute your EMIs before you fix your personal loan amount. This will help you plan your expenses efficiently. You can multiply this loan EMI with your loan tenure to find out your precise loan amount. You can then choose the lowest loan amount.</li>
-   <li><strong>Compare the processing fee:</strong> Most banks and NBFCs charge a processing fee for a personal loan. You can compare this fee and then decide which loan product you want.</li>
-   <li><strong>Select fixed or variable interest rate according to your preference:</strong> When you choose fixed interest rate, your loan payment will remain fixed throughout the loan tenure. When you select variable interest rate, your loan payment will depend on the rate. Hence, the loan payment will increase if the rate increases and the loan payment will reduce if the rate reduces.</li>
-   <li><strong>Be wary about automatic payments:</strong> If you choose standing instruction or ECS as your loan payment mode, you will need to be careful about the direct debiting of money. You should make sure that no additional amount is deducted from your account unnecessarily. You will need to monitor your loan payments on a regular basis to ensure that everything is being done properly.</li>
+  <li><strong>Assess the need for your personal loan:</strong> You will need to be clear about the need for your personal loan. You can take it for funding your wedding arrangements, paying your hospital bills, buying medicines, etc. Before you apply for the loan, you will need to assess if you really want the loan. If you are planning to take a personal loan for investing in shares or other financial instruments, then it may not be a great idea.</li>
+  <li><strong>Do proper research to get the best rate for your personal loan:</strong> You can do online research by visiting third-party financial websites or by going to the banks' official websites to compare different interest rates for personal loans. This will help you get a proper idea about the costs that you will incur.</li>
+  <li><strong>Check your credit history:</strong> Before you proceed to apply for a personal loan from any bank or NBFC, you will need to assess your credit history thoroughly. This will give you an idea about the loan amount that you will receive. You need to make sure your credit history looks decent before you apply for a loan.</li>
+  <li><strong>Review the fine print on your loan document carefully:</strong> Make sure you read the personal loan details carefully as this will give you a clear understanding of the commitment you are making in terms of the repayment.</li>
+  <li><strong>Choose your personal loan tenure by assessing your repayment ability:</strong> A personal loan typically ranges from 1 to 5 years. You can fix the loan tenure according to your loan amount, your other monthly expenses, and the income that you earn on a monthly basis.</li>
+  <li><strong>Choose an affordable interest rate:</strong> Ensure that you choose an economical interest rate for your personal loan. With a low-interest rate, your loan expenses will be low and you can repay it without any hassle. You will also avoid any defaults on loans.</li>
+  <li><strong>Select your personal loan amount as per your convenience:</strong> You can choose your personal loan amount depending on your repayment capability, your income, and your expenditures.</li>
+  <li><strong>Check your EMIs properly:</strong> You will need to compute your EMIs before you fix your personal loan amount. This will help you plan your expenses efficiently. You can multiply this loan EMI with your loan tenure to find out your precise loan amount. You can then choose the lowest loan amount.</li>
+  <li><strong>Compare the processing fee:</strong> Most banks and NBFCs charge a processing fee for a personal loan. You can compare this fee and then decide which loan product you want.</li>
+  <li><strong>Select fixed or variable interest rate according to your preference:</strong> When you choose fixed interest rate, your loan payment will remain fixed throughout the loan tenure. When you select variable interest rate, your loan payment will depend on the rate. Hence, the loan payment will increase if the rate increases and the loan payment will reduce if the rate reduces.</li>
+  <li><strong>Be wary about automatic payments:</strong> If you choose standing instruction or ECS as your loan payment mode, you will need to be careful about the direct debiting of money. You should make sure that no additional amount is deducted from your account unnecessarily. You will need to monitor your loan payments on a regular basis to ensure that everything is being done properly.</li>
 </ul>
 <div class="col-md-12 link-section" style="text-align:right">
-   <p class="list-group-item list-group-blue"> Read More About: <strong><a href="/best-tips-for-successful-personal-loan.html" title="Best Tips for Successful Personal Loan">Best Tips for Successful Personal Loan</a></strong> </p>
+  <p class="list-group-item list-group-blue"> Read More About: <strong><a href="/best-tips-for-successful-personal-loan.html" title="Best Tips for Successful Personal Loan">Best Tips for Successful Personal Loan</a></strong> </p>
 </div>
 <h2>What are the Different Types of Personal Loans?</h2>
 <p>There are several types of personal loans available in India:</p>
 <ul>
-   <li><strong>Based on interest rate</strong> - Fixed rate loans and variable-rate loans</li>
-   <li><strong>Based on asset requirements</strong> - Line of credit</li>
-   <li><strong>Based on need</strong> - Debt consolidation loans and payday loans</li>
+  <li><strong>Based on interest rate</strong> - Fixed rate loans and variable-rate loans</li>
+  <li><strong>Based on asset requirements</strong> - Line of credit</li>
+  <li><strong>Based on need</strong> - Debt consolidation loans and payday loans</li>
 </ul>
 <div class="col-md-12 link-section" style="text-align:right">
-   <p class="list-group-item list-group-blue"> Read More About: <strong><a href="/personal-loan-types.html" title="Personal Loan Types">Personal Loan Types</a></strong> </p>
+  <p class="list-group-item list-group-blue"> Read More About: <strong><a href="/personal-loan-types.html" title="Personal Loan Types">Personal Loan Types</a></strong> </p>
 </div>
 <h2>How to Improve Your Chances of Getting a Personal Loan?</h2>
 <p>If you want to make sure that your personal loan application is accepted, here are some important guidelines to follow</p>
 <ul>
-   <li>
-      <strong>Be aware of your credit score: </strong>When you plan to apply for a personal loan, you need to be fully aware of your credit score. You should decide your lender and your loan amount as per your credit score. If your credit score is low, you can work on improving it within a specific period of time and then apply for the loan. This will increase the chances of your loan getting approved. If you have made any late payment for your previous loans or credit card bills, then you should ideally wait for a few months before submitting a loan application.
-   </li>
-   <li>
-      <strong>Select your lender as per your credit score:</strong> Lenders respond to credit scores in different ways. Conventional banks and NBFCs may not offer personal loans if you have a low credit score. In such cases, you can approach the new-age lenders who may agree to provide you with a loan with certain terms and conditions.
-   </li>
-   <li>
-      <strong>Make sure you check your debt-to-income ratio properly:</strong> The loan amount that you apply for and the income that you earn on a monthly or annual basis should be proportionate. If you apply for a personal loan amount which is much higher than your repayment capability on a monthly basis, then your application may not get accepted.
-   </li>
+  <li>
+    <strong>Be aware of your credit score: </strong>When you plan to apply for a personal loan, you need to be fully aware of your credit score. You should decide your lender and your loan amount as per your credit score. If your credit score is low, you can work on improving it within a specific period of time and then apply for the loan. This will increase the chances of your loan getting approved. If you have made any late payment for your previous loans or credit card bills, then you should ideally wait for a few months before submitting a loan application.
+  </li>
+  <li>
+    <strong>Select your lender as per your credit score:</strong> Lenders respond to credit scores in different ways. Conventional banks and NBFCs may not offer personal loans if you have a low credit score. In such cases, you can approach the new-age lenders who may agree to provide you with a loan with certain terms and conditions.
+  </li>
+  <li>
+    <strong>Make sure you check your debt-to-income ratio properly:</strong> The loan amount that you apply for and the income that you earn on a monthly or annual basis should be proportionate. If you apply for a personal loan amount which is much higher than your repayment capability on a monthly basis, then your application may not get accepted.
+  </li>
 </ul>
-<h2>Do’s and Don’ts While Taking a Personal Loan</h2>
-<h3>Do’s:</h3>
+<h2>Do's and Don'ts While Taking a Personal Loan</h2>
+<h3>Do's:</h3>
 <p><strong>Do proper research before you apply for a personal loan: </strong>Make sure you do good research regarding the various interest rates and prepayment charges implemented by the Reserve Bank of India (RBI) for multiple loans? You will also have to keep yourself updated about modifications made to these charges. Banks tend to change their decisions about fees and interest rates on a regular basis. It is important for you to be aware of these aspects so that you do not get scammed while taking a personal loan.</p>
 <p>You will need to do relevant homework about the numerous loan amounts, loan tenures, and loan rates of different banks. When you do your homework sincerely, you will be able to grab a great loan deal that offers a low-interest rate along with meeting your other preferences.</p>
 <p>Moreover, when you spend some time on research, you will get to know about new personal loan schemes or special offers on certain schemes. You can save a lot by making use of these offers. You may also be required to pay very low processing fees when you make use of these special loan deals.</p>
@@ -401,9 +401,9 @@
 <p><strong>Do pay your loan installment promptly every single time: </strong>When you are repaying through monthly installments, you should make sure that you pay each installment amount on time. You should focus on not missing any of your payment deadlines. If you miss any of your payment deadlines, you will unnecessarily have to pay a late payment charge. You may also be treated as a borrower who has defaulted his or her loan. This can affect your credit score negatively.</p>
 <p>In case you are struggling to repay your loan during any particular month, you can prioritize your other payments. You can forego certain expenditures to avoid unrequired additional payments. You can create a plan to first pay your loan EMI for that certain month and then your other bills. When you give first priority to your loan EMIs, you can avoid a negative mark on your credit report and credit score.</p>
 <p><strong>Do evaluate your credit score thoroughly: </strong>Before you even approach a bank for a personal loan, check your credit score thoroughly. When you are aware of your credit score, you can assess the probability whether your loan will get approved or not. Your credit score also plays a significant role in determining the interest rate for your personal loan. You can check your credit score by using the credit score calculator available on the web portal of BankBazaar. It offers an accurate credit score for free! You only have to key in certain relevant details and you will get your results instantly. The Credit Information Bureau (India) Limited (CIBIL) provides a credit score to an individual only if he or she has taken a credit card or a loan previously.</p>
-<p><strong>Do apply for an affordable loan amount: </strong>You should make sure that you choose your loan amount only after careful thinking. You should check out the various loan rates and loan fees and also you’re other expenses. Accordingly, you should apply for a particular loan quantum. Do not go overboard while applying for a loan because you should remember that you will only have to repay this entire loan amount. Hence, be watchful about how much you apply for.</p>
+<p><strong>Do apply for an affordable loan amount: </strong>You should make sure that you choose your loan amount only after careful thinking. You should check out the various loan rates and loan fees and also you're other expenses. Accordingly, you should apply for a particular loan quantum. Do not go overboard while applying for a loan because you should remember that you will only have to repay this entire loan amount. Hence, be watchful about how much you apply for.</p>
 <p><strong>Do have a clear picture of what you need the loan for: </strong>Do not take a loan just because you can get it easily. Before you apply for a personal loan, you should be fully clear about why you require it. Once you procure the loan from your bank or any other lender, you should stick to the purpose that you had in mind. You do not have to mention the purpose to your lender. However, you will need to stick to it when you are repaying your loan.</p>
-<h3>Don’ts:</h3>
+<h3>Don'ts:</h3>
 <p><strong>Do not sign your loan documents without understanding every point: </strong>You should avoid signing your loan document without comprehending each point. You must read all the terms and conditions given in your loan document before you agree to sign it. If you have any doubt regarding the features of your loan, you will have to immediately contact your bank representative for assistance. It is better to get everything clarified before you sign the document. Once you sign the loan document, the bank may not agree to make any changes even if you do face any issue later.</p>
 <p><strong>Do not make multiple inquiries regarding personal loans from different banks: </strong>Make sure you approach a certain bank or NBFC only after you do a good amount of research. You can shortlist different banks after checking to see what they have to offer. If you approach numerous lenders to apply for a loan, there will be a record of excessive credit inquiries in your name. This can affect your credit report poorly. Your credit score can also get impacted.</p>
 <p><strong>Do not take a personal loan without any serious purpose: </strong>It makes sense to apply for a personal loan for making wedding arrangements or for funding your higher education course or for renovating your living space. However, stay away from taking a personal loan for frivolous purposes such as hosting parties, having fancy dinners, or vacationing at some exotic location. When you take a personal loan for such reasons, you may end up getting into trouble. You will end up paying extremely high bills for these purposes with your personal loan and then you may struggle to repay the loan.</p>
@@ -412,7 +412,7 @@
 <p><strong>Do not accept bad personal loan products: </strong>Avoid bad decisions regarding personal loan products. There are multiple types of personal loans available in the market. Hence, you will have to be financially sensible while choosing them. The common personal loans will help you enhance your financial wealth and assist you in attaining your financial goals. However, there are a few bad personal loan options such as payday loans or title loans. These loans require you to pay heavy penalties and they also do not allow you to redeem conveniently.</p>
 <p>You can typically stay away from short-term personal loans that will make you pay high-interest rates. You will end up incurring higher expenses compared to the original amount that you would have borrowed.</p>
 <div class="col-md-12 link-section" style="text-align:right">
-   <p class="list-group-item list-group-blue">You May Also Read:<strong><a href="/personal-loan/top-up-personal-loan.html" title="Top up Personal Loan">Top up Personal Loan</a></strong> </p>
+  <p class="list-group-item list-group-blue">You May Also Read:<strong><a href="/personal-loan/top-up-personal-loan.html" title="Top up Personal Loan">Top up Personal Loan</a></strong> </p>
 </div>
 <h2>What is the Typical Amount and Period of a Personal Loan?</h2>
 <p><strong>Typical personal loan amount: </strong>For a personal loan, the loan amount generally depends on your employment status, income, loan tenure, etc. Your lender will find out if you are a salaried employee or a self-employed individual. When you give your monthly income, your lender will typically make sure that your loan EMI is not above 40 to 50% of your monthly income. Your lender will also look into your existing loans or credit card dues (if any) to fix your personal loan amount.</p>
@@ -426,12 +426,12 @@
 <p>When you apply for a personal loan, there is no assurance that you will receive a loan even if your credit score is high. However, it is more likely that you will get a loan if your score is 750 or above.</p>
 <p>When your score is below 750, you may most likely not qualify for a loan. However, you can try taking alternative steps to get a loan:</p>
 <ol>
-   <li><strong>Show income proofs to your lender:</strong> If you have recently got a salary increment or a better job offer with a good pay hike, then you can show relevant documents to your lender. When your lender is aware that you are earning better now and that you will not struggle to repay, your application is more likely to be approved. Meanwhile, you can work on improving your credit score by following stringent measures to clear all your debts quickly.</li>
-   <li><strong>Check out peer-to-peer lending:</strong> Peer-to-peer lending is not a mainstream form of lending. However, when banks and leading NBFCs are not ready to offer a loan to you due to your CIBIL score, you can consider borrowing from peer-to-peer lenders. However, you may have to pay very high interest rates for such loans.</li>
-   <li><strong>Take help from your spouse or family member:</strong> If your spouse or any other close family member has a better credit score than you, you can take his or her support to apply for a personal loan. You may also apply for a personal loan with your spouse as a joint applicant.</li>
-   <li><strong>Take a secured personal loan:</strong> Personal loans are usually unsecured loans. However, if you have a low CIBIL score, you can discuss with your lender and decide to go for a secured personal loan. You can offer any valuable asset as a collateral. In this case, your lender may be ready to ignore your credit report. You can give FDs, assets, shares, or gold as your collateral.</li>
-   <li><strong>Find out about NBFCs that offer personal loans in spite of low credit score:</strong> Most banks are very strict about applicants meeting eligibility criteria related to credit score. Hence, you should do proper research to find a reliable NBFC that will agree to offer you a personal loan in spite of your low credit score. You may be required to pay a high interest rate though.</li>
-   <li><strong>Improve your credit score:</strong> You could also discuss with your lender that you are implementing appropriate steps in order to bring up your credit score. You could take some time to enhance your credit score and then apply for a personal loan. This will prevent any form of loan rejection and it will also help you avoid too many credit inquiries. </li>
+  <li><strong>Show income proofs to your lender:</strong> If you have recently got a salary increment or a better job offer with a good pay hike, then you can show relevant documents to your lender. When your lender is aware that you are earning better now and that you will not struggle to repay, your application is more likely to be approved. Meanwhile, you can work on improving your credit score by following stringent measures to clear all your debts quickly.</li>
+  <li><strong>Check out peer-to-peer lending:</strong> Peer-to-peer lending is not a mainstream form of lending. However, when banks and leading NBFCs are not ready to offer a loan to you due to your CIBIL score, you can consider borrowing from peer-to-peer lenders. However, you may have to pay very high interest rates for such loans.</li>
+  <li><strong>Take help from your spouse or family member:</strong> If your spouse or any other close family member has a better credit score than you, you can take his or her support to apply for a personal loan. You may also apply for a personal loan with your spouse as a joint applicant.</li>
+  <li><strong>Take a secured personal loan:</strong> Personal loans are usually unsecured loans. However, if you have a low CIBIL score, you can discuss with your lender and decide to go for a secured personal loan. You can offer any valuable asset as a collateral. In this case, your lender may be ready to ignore your credit report. You can give FDs, assets, shares, or gold as your collateral.</li>
+  <li><strong>Find out about NBFCs that offer personal loans in spite of low credit score:</strong> Most banks are very strict about applicants meeting eligibility criteria related to credit score. Hence, you should do proper research to find a reliable NBFC that will agree to offer you a personal loan in spite of your low credit score. You may be required to pay a high interest rate though.</li>
+  <li><strong>Improve your credit score:</strong> You could also discuss with your lender that you are implementing appropriate steps in order to bring up your credit score. You could take some time to enhance your credit score and then apply for a personal loan. This will prevent any form of loan rejection and it will also help you avoid too many credit inquiries. </li>
 </ol>
 <p>Once your credit score is 750, you can stick to a good schedule of repaying all your installments on time.</p>
 <h2>What are the Other Factors That Influence Approval for a Personal Loan, Apart from Credit History?</h2>
@@ -441,158 +441,157 @@
 <p>In India, banks and NBFCs offer exclusive personal loans for non-resident Indians (NRIs) according to their specific preferences and needs. You can apply for the loan by visiting a bank branch in India or by going to the official website of the bank. Many banks offer personal loans against fixed deposits. Some banks may require the applicant to be a resident Indian and the co-applicant can be the NRI who is a close relative of the applicant.</p>
 <p>The documentation process for NRIs is also minimal and simple. You will need to furnish certain relevant documents such as your visa, passport, salary certificate, and bank statements from both domestic and foreign banks. Generally, the personal loan tenure for NRIs is up to 36 months.</p>
 <div class="col-md-12 link-section" style="text-align:right">
-   <p class="list-group-item list-group-blue">Read More About: <strong><a href="/personal-loan/personal-loan-for-nri.html" title="Personal Loan for NRI">Personal Loan for NRI</a></strong> </p>
+  <p class="list-group-item list-group-blue">Read More About: <strong><a href="/personal-loan/personal-loan-for-nri.html" title="Personal Loan for NRI">Personal Loan for NRI</a></strong> </p>
 </div>
-<h2>Personal Loan Balance Transfer</a> </h2>
+<h2>Personal Loan Balance Transfer</h2>
 <p>Many banks offer the personal loan balance transfer facility that help you in minimizing the burden of your current loan. You can transfer the balance of your existing loan to a new personal loan account and then get additional finances for your other needs. This facility will help you secure a low interest rate.</p>
 <ul>
-   <li>Under this facility, the unpaid principal amount is transferred to another account. This facility is easily accessible if you have not defaulted on any of your EMIs.</li>
-   <li>Apart from reduced interest rates, you can also enjoy longer loan tenures. You may have to pay a small amount as a balance transfer fee to your lender. This depends on the bank or the NBFC that you have chosen.</li>
-   <li>You may also go for a loan balance transfer if your current lender is not offering satisfactory services.</li>
-   <li>When you go for a balance transfer, you should make certain that you go for a loan that costs lesser than your current one.</li>
-   <li>Also, if your present bank fails to meet certain conditions that were negotiated earlier, then you can go for a loan transfer.</li>
-   <li>Moreover, you can get a top-up loan facility to get more funds for your other requirements.</li>
-   <li>While comparing balance transfer options, you should take into account the change in EMIs. The new financial institution may offer lower EMIs when you go for the balance transfer. However, in such cases, the interest may increase very drastically. Hence, you should be very cautious when you choose your new lender.</li>
-   <li>Next, you should consider the processing fee for your new balance transfer facility. Ideally it should be lesser than what you are paying for your present loan product. You should also check the legal fees, technical fees, administrative fees, valuation fees, etc. when you pick a balance transfer option.</li>
-   <li>You should be wary about the special offers provided for loan balance transfers. Nowadays, lenders offer exclusive discounts on loan transfers. Before you go for any of these offers, make sure you read the details regarding the offer very carefully.</li>
-   <li>You will also need to read the terms and conditions regarding your new personal loan balance transfer programme.</li>
-   <li>You will have to make sure you collect all the documents that you had given to your present lender and give them to your new lender.</li>
-   <li>If you are asked to give a collateral for your loan transfer, make sure that you give a collateral with a lower value than your original collateral.</li>
+  <li>Under this facility, the unpaid principal amount is transferred to another account. This facility is easily accessible if you have not defaulted on any of your EMIs.</li>
+  <li>Apart from reduced interest rates, you can also enjoy longer loan tenures. You may have to pay a small amount as a balance transfer fee to your lender. This depends on the bank or the NBFC that you have chosen.</li>
+  <li>You may also go for a loan balance transfer if your current lender is not offering satisfactory services.</li>
+  <li>When you go for a balance transfer, you should make certain that you go for a loan that costs lesser than your current one.</li>
+  <li>Also, if your present bank fails to meet certain conditions that were negotiated earlier, then you can go for a loan transfer.</li>
+  <li>Moreover, you can get a top-up loan facility to get more funds for your other requirements.</li>
+  <li>While comparing balance transfer options, you should take into account the change in EMIs. The new financial institution may offer lower EMIs when you go for the balance transfer. However, in such cases, the interest may increase very drastically. Hence, you should be very cautious when you choose your new lender.</li>
+  <li>Next, you should consider the processing fee for your new balance transfer facility. Ideally it should be lesser than what you are paying for your present loan product. You should also check the legal fees, technical fees, administrative fees, valuation fees, etc. when you pick a balance transfer option.</li>
+  <li>You should be wary about the special offers provided for loan balance transfers. Nowadays, lenders offer exclusive discounts on loan transfers. Before you go for any of these offers, make sure you read the details regarding the offer very carefully.</li>
+  <li>You will also need to read the terms and conditions regarding your new personal loan balance transfer programme.</li>
+  <li>You will have to make sure you collect all the documents that you had given to your present lender and give them to your new lender.</li>
+  <li>If you are asked to give a collateral for your loan transfer, make sure that you give a collateral with a lower value than your original collateral.</li>
 </ul>
 <div class="col-md-12 link-section" style="text-align:right">
-   <p class="list-group-item list-group-blue">Read More About: <strong><a href="/personal-loan/personal-loan-balance-transfer.html" title="Personal Loan Balance Transfer">Personal Loan Balance Transfer</a></strong> </p>
+  <p class="list-group-item list-group-blue">Read More About: <strong><a href="/personal-loan/personal-loan-balance-transfer.html" title="Personal Loan Balance Transfer">Personal Loan Balance Transfer</a></strong> </p>
 </div>
 <h2>How to Choose Personal Loan Tenure Wisely</h2>
 <p>When you want to select your personal loan tenure, you will need to consider your interest rate and your EMI amounts. You need to remember that if you go for a longer loan tenure, your EMIs will be lesser. This way, you will incur less expenses for your personal loan. However, you also need to bear in mind that you will be paying higher interest if you choose a loan for a longer tenure.</p>
 <p>You can calculate your EMIs by using a personal loan calculator which is available online. Many third-party websites and official websites of banks have an advanced EMI calculator. You can check out the EMI calculator offered by BankBazaar. After computing your EMIs for different loan tenures, you will get an idea about how much you will spend each year. Accordingly, you can choose your loan tenure.</p>
 <p>You should also consider your prepayment terms. When you are sure that you will be prepaying your loan, you can enter these details in the EMI calculator. You will get accurate results accordingly. You will most likely be asked to pay a prepayment penalty when you go ahead. If you want to prepay your loan within 1 or 2 years, you can go for a longer loan period so that your monthly payments will be lesser.</p>
 
-<div class="row btm-pad ln-accordion">
-   <div id="accordion" class="panel-group">
-      <div class="panel panel-default">
-         <div class="panel-heading">
-            <h2 class="panel-title"> <a href="#collapseSevenOne" data-parent="#accordion" data-toggle="collapse" class="accordion-toggle collapsed"> <span class="fui-plus"></span>Personal Loan FAQ’s</a> </h2>
-         </div>
-         <div class="panel-collapse collapse" id="collapseSevenOne">
-            <div class="panel-body">
-               <strong>Q. How can I repay my personal loan?</strong>
-               <p><strong>A.</strong> Personal loan can be repaid in equal monthly instalments or EMI. You can provide a post-dated cheque or can give a standing order with your bank or through electronic transfer.</p>
-               <strong>Q. What is an EMI?</strong>
-               <p><strong>A.</strong> EMI or Equal Monthly Instalment is the amount that a borrower pays each month towards an outstanding loan to clear off the debt within a specific timeframe. EMI.includes principal and interest.</p>
-               <strong>Q. Is part- prepayment allowed on my personal loan?</strong>
-               <p><strong>A.</strong> Personal loans can be prepaid in parts or as a whole at any stage. Some banks may charge a prepayment penalty for the same. Some banks do not allow part-prepayment. So, check all the documents before finalising on the loan with the bank. </p>
-               <strong>Q. Will I need a guarantor to take a personal loan?</strong>
-               <p><strong>A.</strong> No, you will not need a guarantor to take a personal loan.</p>
-               <strong>Q. Can I club my income with my spouse to take a personal loan?</strong>
-               <p><strong>A.</strong> Yes, you can club the income of your spouse to boost your eligibility to avail a personal loan.</p>
-               <strong>Q. How will I be eligible for a relationship discount?</strong>
-               <p><strong>A.</strong> If you have been a customer for a particular bank for a while, then the bank might reduce the personal loan interest rate or other such charges. Some banks will also provide you additional services. </p>
-               <strong>Q. Do I need to open a bank account to service my personal loan?</strong>
-               <p><strong>A.</strong> If you do not have an account with the bank, it is not mandatory to apply for one. But, if you apply for a loan with your existing banker, then you will be eligible for a relationship discount.</p>
-               <strong>Q. How do I stop executives from calling me to let me know about other loans?</strong>
-               <p><strong>A.</strong> Some banks let you register yourself for ‘Do Not Disturb’. If you opt for this, the executives will not disturb you with cold sales calls.</p>
-               <strong>Q: What is the best way to apply for personal Loan? </strong>
-               <p><strong>A:</strong> The best way to apply for an personal loan is by using the online loan application tool at BankBazaar.com The tool can be accessed on this page allowing users to choose personal loan from various banks and NBFCS as per their selection.</p>
-               <strong>Q: Can I Track my Loan Application? </strong>
-               <p><strong>A:</strong> BankBazaar.com offers it's loan applicants an active tracking tool through both email and SMS allowing them to track daily updates of their loan application.</p>
-               <strong>Q: Is my Data Safe with BankBazaar.com? </strong>
-               <p><strong>A:</strong> BankBazaar.com is India’s premier financial marketplace and takes utmost care in ensuring that all data is sent in electronic form with high level of encryption. BankBazaar.com does not share data with any third party other than the financial institution.</p>
-               <strong>Q: Is BankBazaar.com Personal Loan Tool Free? </strong>
-               <p><strong>A:</strong> Yes BankBazaar.com personal loan calculator tool is totally free and the portal does not charge any fee for its services from users.</p>
-            </div>
-         </div>
+<div id="accordion" class="btm-pad ln-accordion panel-group">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h2 class="panel-title"> <a href="#collapseSevenOne" data-parent="#accordion" data-toggle="collapse" class="accordion-toggle collapsed"> <span class="fui-plus"></span>Personal Loan FAQ's</a> </h2>
+    </div>
+    <div class="panel-collapse collapse" id="collapseSevenOne">
+      <div class="panel-body">
+        <strong>Q. How can I repay my personal loan?</strong>
+        <p><strong>A.</strong> Personal loan can be repaid in equal monthly instalments or EMI. You can provide a post-dated cheque or can give a standing order with your bank or through electronic transfer.</p>
+        <strong>Q. What is an EMI?</strong>
+        <p><strong>A.</strong> EMI or Equal Monthly Instalment is the amount that a borrower pays each month towards an outstanding loan to clear off the debt within a specific timeframe. EMI.includes principal and interest.</p>
+        <strong>Q. Is part- prepayment allowed on my personal loan?</strong>
+        <p><strong>A.</strong> Personal loans can be prepaid in parts or as a whole at any stage. Some banks may charge a prepayment penalty for the same. Some banks do not allow part-prepayment. So, check all the documents before finalising on the loan with the bank. </p>
+        <strong>Q. Will I need a guarantor to take a personal loan?</strong>
+        <p><strong>A.</strong> No, you will not need a guarantor to take a personal loan.</p>
+        <strong>Q. Can I club my income with my spouse to take a personal loan?</strong>
+        <p><strong>A.</strong> Yes, you can club the income of your spouse to boost your eligibility to avail a personal loan.</p>
+        <strong>Q. How will I be eligible for a relationship discount?</strong>
+        <p><strong>A.</strong> If you have been a customer for a particular bank for a while, then the bank might reduce the personal loan interest rate or other such charges. Some banks will also provide you additional services. </p>
+        <strong>Q. Do I need to open a bank account to service my personal loan?</strong>
+        <p><strong>A.</strong> If you do not have an account with the bank, it is not mandatory to apply for one. But, if you apply for a loan with your existing banker, then you will be eligible for a relationship discount.</p>
+        <strong>Q. How do I stop executives from calling me to let me know about other loans?</strong>
+        <p><strong>A.</strong> Some banks let you register yourself for ‘Do Not Disturb'. If you opt for this, the executives will not disturb you with cold sales calls.</p>
+        <strong>Q: What is the best way to apply for personal Loan? </strong>
+        <p><strong>A:</strong> The best way to apply for an personal loan is by using the online loan application tool at BankBazaar.com The tool can be accessed on this page allowing users to choose personal loan from various banks and NBFCS as per their selection.</p>
+        <strong>Q: Can I Track my Loan Application? </strong>
+        <p><strong>A:</strong> BankBazaar.com offers it's loan applicants an active tracking tool through both email and SMS allowing them to track daily updates of their loan application.</p>
+        <strong>Q: Is my Data Safe with BankBazaar.com? </strong>
+        <p><strong>A:</strong> BankBazaar.com is India's premier financial marketplace and takes utmost care in ensuring that all data is sent in electronic form with high level of encryption. BankBazaar.com does not share data with any third party other than the financial institution.</p>
+        <strong>Q: Is BankBazaar.com Personal Loan Tool Free? </strong>
+        <p><strong>A:</strong> Yes BankBazaar.com personal loan calculator tool is totally free and the portal does not charge any fee for its services from users.</p>
       </div>
-   </div>
+    </div>
+  </div>
 </div>
-<h2>Diwali Bonus Wali November’18 : Apply for Personal Loan from BankBazaar & Get Rs.750 Amazon Gift Voucher</h2>
+<h2>Diwali Bonus Wali November'18 : Apply for Personal Loan from BankBazaar & Get Rs.750 Amazon Gift Voucher</h2>
 <p>BankBazaar is offering you an attractive deal on Personal Loan that you simply should not miss! Select any one of the Personal Loan products from participating banks on the BankBazaar.com website and win an <strong>Amazon gift voucher worth Rs.750</strong>.</p>
 <h3>How to participate in the deal</h3>
 <ul>
-   <li>The customer will have to apply for a Personal Loan (marked with the badge Rs.750 Amazon voucher) through the website BankBazaar.com, between <strong>1st November, 2018 to 30th November, 2018</strong>.</li>
-   <li>If the Personal Loan product is disbursed on or <strong>before 15th January, 2019</strong>, the customer receives an <strong>Amazon gift voucher worth Rs.750</strong>.</li>
-   <li>The voucher will be sent to the email ID provided by the customer at the time of purchase of the Personal Loan.</li>
-   <li>Customers can visit the amazon website or use the Amazon app for redemption of the gift voucher.</li>
+  <li>The customer will have to apply for a Personal Loan (marked with the badge Rs.750 Amazon voucher) through the website BankBazaar.com, between <strong>1st November, 2018 to 30th November, 2018</strong>.</li>
+  <li>If the Personal Loan product is disbursed on or <strong>before 15th January, 2019</strong>, the customer receives an <strong>Amazon gift voucher worth Rs.750</strong>.</li>
+  <li>The voucher will be sent to the email ID provided by the customer at the time of purchase of the Personal Loan.</li>
+  <li>Customers can visit the amazon website or use the Amazon app for redemption of the gift voucher.</li>
 </ul>
 <h3>How to use the gift voucher at the Amazon website</h3>
 <ul>
-   <li>The customer can log in to the Amazon website or use the Amazon app in order to redeem the voucher.</li>
-   <li>The user selects the merchandise that he/she would like to redeem and applies the coupon code on the voucher at the time of billing.</li>
-   <li>It is important to check the coupon e-mailer for the validity of the code.</li>
-   <li>The customer can visit the website www.amazon.com for detailed terms and conditions.</li>
+  <li>The customer can log in to the Amazon website or use the Amazon app in order to redeem the voucher.</li>
+  <li>The user selects the merchandise that he/she would like to redeem and applies the coupon code on the voucher at the time of billing.</li>
+  <li>It is important to check the coupon e-mailer for the validity of the code.</li>
+  <li>The customer can visit the website www.amazon.com for detailed terms and conditions.</li>
 </ul>
 <h3>Important points to note</h3>
 <ul>
-   <li>The redemption process and directions for use of the voucher are solely governed by the terms and conditions set by the merchant.</li>
-   <li>The shipment and tracking options for the redeemed product are also based on the terms and conditions of the merchant company. BankBazaar is not liable for the same.</li>
-   <li>Voucher requests for Personal Loan products that are disbursed after the expiry of the suggested timelines will not be honoured.</li>
-   <li>The gift voucher is applicable only to Personal Loan products offered by select partners.</li>
-   <li>The customer should be 18 years of age or more to be eligible for this offer.</li>
-   <li>Disbursal of the Personal Loan will be at the sole discretion of the partner bank.</li>
-   <li>If the voucher is lost or damaged after issuance, BankBazaar will not be liable for the same. Vouchers cannot be cancelled or replaced after issuance.</li>
-   <li>The offer is valid for 1 order for Personal Loan per participant, during the program period of <strong>1st November, 2018 to 30th November, 2018.</strong></li>
-   <li>The voucher cannot be exchanged for credit or cash alternative.</li>
-   <li>Resale, reproduction, trade, or alteration of the voucher is not allowed.</li>
-   <li>The voucher cannot be reused after the first usage.</li>
+  <li>The redemption process and directions for use of the voucher are solely governed by the terms and conditions set by the merchant.</li>
+  <li>The shipment and tracking options for the redeemed product are also based on the terms and conditions of the merchant company. BankBazaar is not liable for the same.</li>
+  <li>Voucher requests for Personal Loan products that are disbursed after the expiry of the suggested timelines will not be honoured.</li>
+  <li>The gift voucher is applicable only to Personal Loan products offered by select partners.</li>
+  <li>The customer should be 18 years of age or more to be eligible for this offer.</li>
+  <li>Disbursal of the Personal Loan will be at the sole discretion of the partner bank.</li>
+  <li>If the voucher is lost or damaged after issuance, BankBazaar will not be liable for the same. Vouchers cannot be cancelled or replaced after issuance.</li>
+  <li>The offer is valid for 1 order for Personal Loan per participant, during the program period of <strong>1st November, 2018 to 30th November, 2018.</strong></li>
+  <li>The voucher cannot be exchanged for credit or cash alternative.</li>
+  <li>Resale, reproduction, trade, or alteration of the voucher is not allowed.</li>
+  <li>The voucher cannot be reused after the first usage.</li>
 </ul>
 <p><strong>Happy Shopping!</strong></p>
 <h2>Most Recent Articles on Personal Loan</h2>
 <div class="ln-articles list-group-item list-group-green">
-   <p><strong>Personal Loan for IIM Students</strong></p>
-   <p>Did you get admission for a top-notch academic course at the Indian Institute of Management (IIM)? In case you are wondering how to pay the various fees for your world-class course, you need not fret. You can apply for a premium education loan offered by leading financial institutions in India. No matter which institute of IIM you have secured a seat in, you can apply for a personal loan from any of the listed financial institutions. The website of IIM has a certain list that gives the names of different institutions that provide loans for management courses. The loan quantum ranges from Rs.20 lakh to Rs.30 lakh. You do not need any collateral to apply for this loan. Click <a href="/personal-loan-for-iim-students.html">here </a>to know more about these loans.</p>
-   <p><strong>Personal Loans that Give You Tax Benefits</strong></p>
-   <p>A personal loan is typically taken for emergencies or for other types of personal requirements. However, these personal loans do not provide tax benefits, deductions, or exemptions. Loans like home loans come with tax benefits. However, you could enjoy get tax benefits for a personal loan application by trying out some interesting financial strategies. If you use a personal loan to buy a house, then you will be able to claim tax deductions that are generally offered for a home loan. You can claim tax benefits under Section 24 or Section 80C by proving that you utilised the loan specifically for purchasing your house. Click<a href="https://blog.bankbazaar.com/personal-loans-give-tax-benefits/"> here</a> to find out more about how you can claim tax exemptions or benefits with personal loans.</p>
-   <p><strong>Microfinance</strong></p>
-   <p>Microfinance is described as microcredit or micro-loans. It is provided by banks or financial institutions to those who are economically underprivileged in the society. This form of financing is offered commonly to small and middle-sized enterprises. The main purpose of microfinance is to help out those who live in remote areas where they do not have proper access to mainstream banking services. Microfinance includes offering loans, savings deposits, credit, insurance, etc. There are several microfinance institutions in the country that are exclusively dedicated to building and providing microfinance. Microfinance can be taken by poor people who are unemployed, who deal in contract labour, and who live below poverty line (BPL). Learn everything about microfinance by clicking<a href="/personal-loan/microfinance.html"> here</a>.</p>
-   <p><strong>Should I Take A Personal Loan To Pay Off My Credit Card Dues?</strong></p>
-   <p>Have you been struggling to pay your credit card bills? You can find a solution to this problem that recurs on a monthly basis by applying for a personal loan. Credit card interest rates are very high and hence, you will end up spending a lot on your card payments. You can stop your credit card transactions and start focussing on clearing your previous bills. This can be done with a personal loan that comes with a low interest rate. You could go for debt consolidation with the help of balance transfer options. You may also choose to transform your credit card dues into EMIs. <a href="https://blog.bankbazaar.com/should-i-take-personal-loan-to-pay-off-my-credit-card-dues/">Click here</a> to learn more ways to clear your dues with a personal loan.</p>
+  <p><strong>Personal Loan for IIM Students</strong></p>
+  <p>Did you get admission for a top-notch academic course at the Indian Institute of Management (IIM)? In case you are wondering how to pay the various fees for your world-class course, you need not fret. You can apply for a premium education loan offered by leading financial institutions in India. No matter which institute of IIM you have secured a seat in, you can apply for a personal loan from any of the listed financial institutions. The website of IIM has a certain list that gives the names of different institutions that provide loans for management courses. The loan quantum ranges from Rs.20 lakh to Rs.30 lakh. You do not need any collateral to apply for this loan. Click <a href="/personal-loan-for-iim-students.html">here </a>to know more about these loans.</p>
+  <p><strong>Personal Loans that Give You Tax Benefits</strong></p>
+  <p>A personal loan is typically taken for emergencies or for other types of personal requirements. However, these personal loans do not provide tax benefits, deductions, or exemptions. Loans like home loans come with tax benefits. However, you could enjoy get tax benefits for a personal loan application by trying out some interesting financial strategies. If you use a personal loan to buy a house, then you will be able to claim tax deductions that are generally offered for a home loan. You can claim tax benefits under Section 24 or Section 80C by proving that you utilised the loan specifically for purchasing your house. Click<a href="https://blog.bankbazaar.com/personal-loans-give-tax-benefits/"> here</a> to find out more about how you can claim tax exemptions or benefits with personal loans.</p>
+  <p><strong>Microfinance</strong></p>
+  <p>Microfinance is described as microcredit or micro-loans. It is provided by banks or financial institutions to those who are economically underprivileged in the society. This form of financing is offered commonly to small and middle-sized enterprises. The main purpose of microfinance is to help out those who live in remote areas where they do not have proper access to mainstream banking services. Microfinance includes offering loans, savings deposits, credit, insurance, etc. There are several microfinance institutions in the country that are exclusively dedicated to building and providing microfinance. Microfinance can be taken by poor people who are unemployed, who deal in contract labour, and who live below poverty line (BPL). Learn everything about microfinance by clicking<a href="/personal-loan/microfinance.html"> here</a>.</p>
+  <p><strong>Should I Take A Personal Loan To Pay Off My Credit Card Dues?</strong></p>
+  <p>Have you been struggling to pay your credit card bills? You can find a solution to this problem that recurs on a monthly basis by applying for a personal loan. Credit card interest rates are very high and hence, you will end up spending a lot on your card payments. You can stop your credit card transactions and start focussing on clearing your previous bills. This can be done with a personal loan that comes with a low interest rate. You could go for debt consolidation with the help of balance transfer options. You may also choose to transform your credit card dues into EMIs. <a href="https://blog.bankbazaar.com/should-i-take-personal-loan-to-pay-off-my-credit-card-dues/">Click here</a> to learn more ways to clear your dues with a personal loan.</p>
 </div>
 <div class="row news-widget top-pad-10">
-   <ul>
-      <li class="news-green">
-         <h3 class="news-head">Everything You Need To Know About Personal Loans</h3>
-         <p>Struck by a financial emergency and are looking for a Personal Loan? You can borrow a minimum of Rs. 10,000 and a maximum of Rs. 30 Lakhs, depending on your bank and eligibility. The loan tenure ranges between 12 to 60 months. If you are a salaried applicant, you need to be at least 21 years of age and no older than 58 years at loan maturity, with at least 1 year of service with the current employer and earning at least Rs. 17,500 per month. Self-employed individuals have to be at least 24 years of age and no older than 65 years at loan maturity, with at least 3 years of experience in your current profession, earning at least Rs. 17,500 per month. Keep these documents handy: Proof of Identity (Passport, Pan Card, and Voter ID), Proof of Residence (Passport or utility bills), Bank Statement for the last 6 months, Salary Slip for the last 3 months and Form 16 or proof of Income Tax Returns. If you’re self-employed, you will need: Proof of IT Returns for the last 3 years and Audited balance/income sheet from the last 3 years. Now that you’re a Personal Loan Ninja, compare multiple offers and apply!</p>
-         <p> Stay up to date! Daily finance news at your fingertips. <a href="http://m.onelink.me/2b030512" rel="nofollow" target="_blank">Explore Personal Loans on Mobile App</a></p>
-      </li>
-   </ul>
+  <ul>
+    <li class="news-green">
+      <h3 class="news-head">Everything You Need To Know About Personal Loans</h3>
+      <p>Struck by a financial emergency and are looking for a Personal Loan? You can borrow a minimum of Rs. 10,000 and a maximum of Rs. 30 Lakhs, depending on your bank and eligibility. The loan tenure ranges between 12 to 60 months. If you are a salaried applicant, you need to be at least 21 years of age and no older than 58 years at loan maturity, with at least 1 year of service with the current employer and earning at least Rs. 17,500 per month. Self-employed individuals have to be at least 24 years of age and no older than 65 years at loan maturity, with at least 3 years of experience in your current profession, earning at least Rs. 17,500 per month. Keep these documents handy: Proof of Identity (Passport, Pan Card, and Voter ID), Proof of Residence (Passport or utility bills), Bank Statement for the last 6 months, Salary Slip for the last 3 months and Form 16 or proof of Income Tax Returns. If you're self-employed, you will need: Proof of IT Returns for the last 3 years and Audited balance/income sheet from the last 3 years. Now that you're a Personal Loan Ninja, compare multiple offers and apply!</p>
+      <p> Stay up to date! Daily finance news at your fingertips. <a href="http://m.onelink.me/2b030512" rel="nofollow" target="_blank">Explore Personal Loans on Mobile App</a></p>
+    </li>
+  </ul>
 </div>
 <p style="text-align: center;"><strong>Products you might be Interested</strong></p>
 <div class="bb-products-invest text-center">
-   <ul class="clearfix">
-      <li class="border-right"> 
-         <a title="EMI Calculator" href="/finance-tools/emi-calculator.html">
-         <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-original="/images/common/EMI-Calculator-Loan-v1.png" class="img-responsive lazy" alt="EMI Calculator">
-         <span>EMI Calculator</span>
-         </a>
-      </li>
-      <li class="border-right"> 
-         <a title="Car Loan" href="/car-loan.html" >
-         <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-original="/images/common/Car-Loan-v1.png" class="img-responsive lazy" alt="Car Loan">
-         <span>Car Loan</span>
-         </a>
-      </li>
-      <li class="border-right"> 
-         <a title="Mutual Fund" href="/mutual-fund.html" >
-         <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-original="/images/common/mutual-fund-v1.png" class="img-responsive lazy" alt="Mutual Fund">
-         <span>Mutual Fund</span>
-         </a>
-      </li>
-      <li class="border-right"> 
-         <a title="Two Wheeler Loan" href="/two-wheeler-loan.html">
-         <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-original="/images/common/Two-Wheeler-Loan-v1.png" class="img-responsive lazy" alt="Two Wheeler Loan">
-         <span>Two Wheeler Loan</span>
-         </a>
-      </li>
-      <li> 
-         <a title="Education Loan" href="/education-loan.html">
-         <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-original="/images/common/Education-Loan-v1.png" class="img-responsive lazy" alt="Education Loan">
-         <span> Education Loan</span>
-         </a>
-      </li>
-      <li class="border-right"> 
-         <a title="Car Loan" href="/used-car-loan.html" >
-         <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-original="/images/common/Car-Loan-v1.png" class="img-responsive lazy" alt="Used-Car Loan">
-         <span>Used Car Loan</span>
-         </a>
-      </li>
-   </ul>
+  <style>.pi-car-loan-v1, .pi-emi-calculator-loan-v1, .pi-education-loan-v1, .pi-two-wheeler-loan-v1, .pi-mutual-fund-v1{ display: inline-block; background: url('https://www.bankbazaar.com/images/india/infographic/bb-product-icon-1.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left;  width: 35px; height: 35px; }.pi-car-loan-v1 { background-position: -0px -0px;}.pi-emi-calculator-loan-v1 { background-position: -35px -0px;}.pi-education-loan-v1 { background-position: -0px -35px;}.pi-two-wheeler-loan-v1 { background-position: -35px -35px;}.pi-mutual-fund-v1 { background-position: -0px -70px;}</style>
+  <ul class="clearfix">
+    <li class="border-right">
+      <a title="EMI Calculator" href="/finance-tools/emi-calculator.html">
+        <div class="pi-emi-calculator-loan-v1"></div>
+        <span>EMI Calculator</span>
+      </a>
+    </li>
+    <li class="border-right">
+      <a title="Car Loan" href="/car-loan.html" >
+        <div class="pi-car-loan-v1"></div>
+        <span>Car Loan</span>
+      </a>
+    </li>
+    <li class="border-right">
+      <a title="Mutual Fund" href="/mutual-fund.html" >
+        <div class="pi-mutual-fund-v1"></div>
+        <span>Mutual Fund</span>
+      </a>
+    </li>
+    <li class="border-right">
+      <a title="Two Wheeler Loan" href="/two-wheeler-loan.html">
+        <div class="pi-two-wheeler-loan-v1"></div>
+        <span>Two Wheeler Loan</span>
+      </a>
+    </li>
+    <li class="border-right">
+      <a title="Education Loan" href="/education-loan.html">
+        <div class="pi-education-loan-v1"></div>
+        <span> Education Loan</span>
+      </a>
+    </li>
+    <li>
+      <a title="Car Loan" href="/used-car-loan.html" >
+        <div class="pi-car-loan-v1"></div>
+        <span>Used Car Loan</span>
+      </a>
+    </li>
+  </ul>
 </div>
