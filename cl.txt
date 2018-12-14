@@ -1,0 +1,1478 @@
+<h2 id="#What_is_Credit_Card">What is Credit Card? </h2>
+<p>A credit card is a plastic card issued by a bank or a financial institution to borrow funds at the cardholderâ€™s convenience. The maximum credit limit is typically pre-set by the bank at the time of card issuance. The cardholders are free to use the available funds as and when required. The maximum amount of funds can be used only for card purchases such as online transactions and offline transactions at merchant terminals. A small portion, however, is reserved for credit card cash withdrawal. </p>
+
+<p>The cardholder has the option to repay the borrowed amount within the grace period, during which no interest will be charged, or he/she can opt for revolving credit which allows carrying forward unpaid amount to subsequent months and also charges interest on the same until the due is settled in full. </p>
+<p><strong>Know All About Credit Cards</strong></p>
+
+<div class="border-blue clearfix pad-15 border-gallery border-top-matisse border-gallery border-btm-matisse">
+
+  <li><a href="#What_is_Credit_Card">What is Credit Card?</a></li>
+  <li><a href="#Features_of_Credit_Cards">Features of Credit Cards</a></li>
+  <li><a href="#Features_of_Credit_Cards">Benefits of Credit Cards</a></li>
+  <li><a href="#How_to_use_a_credit_card">How to use a credit card?</a></li>
+  <li><a href="#Documents_Required_to_Apply_for_a_Credit_Card_Online">Document Required to Apply Credit Card</a></li>
+  <li><a href="#How_to_Apply_Credit_Card_Online">Credit Card-Apply Online</a></li>
+  <li><a href="#Compare_Credit_Cards_from_Top_Banks_in_India">Compare & Apply Credit Cards</a></li>
+  <li><a href="#Credit_Card_Eligibility">Apply Credit Cards in India</a></li>
+
+</div>
+
+
+<p><h2>Different Types of Credit Cards in India</h2></p>
+
+<div class="bb-products-invest text-center">
+  <ul class="clearfix">
+    <li>
+
+
+      <a title="" href="#Airlinescards">
+        <picture>
+          <source media="(max-width:768px)" srcset="/images/india/infographic/top-airlines-credit-card-india.png">
+          <source media="(min-width: 800px)" srcset="/images/india/infographic/airlines-credit-cards-india.png">
+          <img class="img-responsive" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-original="/images/india/infographic/airlines-credit-cards-india.png" title="Airline Credit Cards Online" alt="Apply Airline Credit card">
+        </picture><p>Airline Credit Cards</p>
+      </a>
+    </li>
+
+    <li>
+
+
+
+      <a title="" href="#lifestylecards">
+        <picture>
+          <source media="(max-width:768px)" srcset="/images/india/infographic/top-lifestyle-credit-card.png">
+          <source media="(min-width: 800px)" srcset="/images/india/infographic/lifestyle-credit-cards.png">
+          <img class="img-responsive" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-original="/images/india/infographic/lifestyle-credit-cards.png" title="Lifestyle Credit Cards Online" alt="About Lifestyle Credit Card">
+        </picture><p>Lifestyle Credit Cards</p>
+      </a>
+    <li>
+
+
+      <a title="" href="#fuelcards">
+        <picture>
+          <source media="(max-width:768px)" srcset="/images/india/infographic/top-fuel-card-india.png">
+          <source media="(min-width: 800px)" srcset="/images/india/infographic/fuel-cards-india.png">
+          <img class="img-responsive" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-original="/images/india/infographic/fuel-cards-india.png" title="Fuel Credit Cards Online" alt="Fuel Cards"">
+        </picture><p>Fuel Credit Cards</p>
+      </a>
+
+
+    </li>
+    <li>
+
+
+
+      <a title="" href="#ShoppingCards">
+        <picture>
+          <source media="(max-width:768px)" srcset="/images/india/infographic/top-shopping-credit-card-india.png">
+          <source media="(min-width: 800px)" srcset="/images/india/infographic/shopping-credit-cards-india.png">
+          <img class="img-responsive" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-original="/images/india/infographic/shopping-credit-cards-india.png" title="ShoppingCredit Cards Online" alt="Shopping Cards"">
+        </picture><p>Shopping Credit Cards</p>
+      </a>
+
+    </li>
+    <li>
+
+      <a title="" href="#rewardscards">
+        <picture>
+          <source media="(max-width:768px)" srcset="/images/india/infographic/top-rewards-card-india.png">
+          <source media="(min-width: 800px)" srcset="/images/india/infographic/rewards-cards-india.png">
+          <img class="img-responsive" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-original="/images/india/infographic/rewards-cards-india.png" title="Rewards Cards Online" alt="Rewards Cards"">
+        </picture><p>Rewards Credit Cards</p>
+      </a>
+
+
+    </li>
+
+    <li>
+      <a title="" href="#businesscards">
+        <picture>
+          <source media="(max-width:768px)" srcset="/images/india/infographic/top-business-card-india.png">
+          <source media="(min-width: 800px)" srcset="/images/india/infographic/business-cards-india.png">
+          <img class="img-responsive" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-original="/images/india/infographic/business-cards-india.png" title="Business Cards Online" alt="Business Cards"">
+        </picture><p>Business Credit Cards</p>
+      </a>
+
+
+    </li>
+
+  </ul>
+
+
+  <ul class="clearfix top-pad-10">
+    <li>
+      <a title="Co-branded Credit Cards" href="#cobrandedcards">
+        <picture>
+          <source media="(max-width:768px)" srcset="/images/india/infographic/top-co-branded-card-india.png">
+          <source media="(min-width: 800px)" srcset="/images/india/infographic/co-branded-cards-india.png">
+          <img class="img-responsive" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-original="/images/india/infographic/co-branded-cards-india.png" title="Co-branded Cards Online" alt="Co-branded Cards"">
+        </picture><p>Co-branded Credit Cards</p>
+      </a>
+
+
+    </li>
+    <li>
+
+      <a title="Corporate Credit Cards" href="#corporatecards">
+        <picture>
+          <source media="(max-width:768px)" srcset="/images/india/infographic/top-corporate-credit-card-india.png">
+          <source media="(min-width: 800px)" srcset="/images/india/infographic/corporate-credit-cards-india.png">
+          <img class="img-responsive" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-original="/images/india/infographic/corporate-credit-cards-india.png" title="Corporate  Cards Online" alt="Corporate Cards"">
+        </picture><p>Corporate Credit Cards</p>
+      </a>
+
+
+
+    </li>
+    <li>
+      <a title="Dining Credit Cards" href="#diningcards">
+        <picture>
+          <source media="(max-width:768px)" srcset="/images/india/infographic/top-dining-credit-card-india.png">
+          <source media="(min-width: 800px)" srcset="/images/india/infographic/dining-credit-cards-india.png">
+          <img class="img-responsive" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-original="/images/india/infographic/dining-credit-cards-india.png" title="Dining Cards Online" alt="Dining Cards"">
+        </picture><p>Dining Credit Cards</p>
+      </a>
+
+
+    </li>
+    <li>
+      <a title="Entertainment Credit Cards" href="#EntertainmentCards">
+        <picture>
+          <source media="(max-width:768px)" srcset="/images/india/infographic/top-entertainment-credit-card-india.png">
+          <source media="(min-width: 800px)" srcset="/images/india/infographic/entertainment-credit-cards-india.png">
+          <img class="img-responsive" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-original="/images/india/infographic/entertainment-credit-cards-india.png" title="Entertainment Cards Online" alt="Entertainment Cards"">
+        </picture><p>Entertainment Credit Cards</p>
+      </a>
+
+    </li>
+
+    <li>
+
+      <a title="Utilities Credit Card" href="#UtilitiesCards">
+        <picture>
+          <source media="(max-width:768px)" srcset="/images/india/infographic/top-utility-credit-card-india.png">
+          <source media="(min-width: 800px)" srcset="/images/india/infographic/utility-credit-cards-india.png">
+          <img class="img-responsive" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-original="/images/india/infographic/utility-credit-cards-india.png" title="Utilities Cards Online" alt="Utilities Cards"">
+        </picture>
+        <p>Utilities Credit Cards</p>
+      </a>
+
+    </li>
+    <li>
+
+      <a title="Golf Credit Cards" href="#golfcards">
+        <picture>
+          <source media="(max-width:768px)" srcset="/images/india/infographic/top-golf-credit-card.png">
+          <source media="(min-width: 800px)" srcset="/images/india/infographic/golf-credit-cards.png">
+          <img class="img-responsive" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-original="/images/india/infographic/golf-credit-cards.png" title="Golf Cards Online" alt="Golf Cards"">
+        </picture>
+        <p>Golf Credit Cards</p>
+      </a>
+
+
+    </li>
+    <li>
+      <a title="Travel Credit Cards" href="#travelcards">
+        <picture>
+          <source media="(max-width:768px)" srcset="/images/india/infographic/top-travel-card-india.png">
+          <source media="(min-width: 800px)" srcset="/images/india/infographic/travel-cards-india.png">
+          <img class="img-responsive" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-original="/images/india/infographic/travel-cards-india.png" title="Travel  Cards Online" alt="Travel Cards"">
+        </picture>
+        <p>Travel Credit Cards</p>
+      </a>
+
+    </li>
+
+  </ul>
+</div>
+
+
+
+
+<h2>Credit Card Apply</h2>
+<div class="col-md-3 col-sm-12 col-xs-12 pull-right top-pad btm-pad tax-img-responsive">
+  <img data-original="/images/india/infographic/get-credit-card-online.png" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" class="img-responsive lazy" title="Credit Card Apply" alt="Credit Card Application">
+  <figcaption align="center"><strong> Apply Credit Card Online </strong></figcaption></div>
+<p>The launch of credit cards has revolutionised the entire financial world. Due to the convenience offered by this financial product along with a plethora of other advantages, more and more individuals are applying for and procuring credit cards. Unlike debit cards, credit cards work on the principle of credit. For instance, individuals borrow funds when they swipe their credit card and repay the same through their monthly bills. However if misused, credit cards can result in a serious dent in the individualâ€™s finances as interest rate will be applicable on late payments.</p>
+
+<p id="How_to_Apply_Credit_Card_Online">A multitude of banks and financial institutions today provide credit cards to their customers. The number of credit cards that are provided also vary and each of them come with specific benefits and features to suit the needs and requirements of myriad customers. Customers can apply for credit cards through different ways as long as they meet the eligibility requirement set by the credit card provider. These days, customers can easily get a credit card online as well as offline.</p>
+
+<h3>Credit Card-Apply Online</h3>
+
+<p>With the introduction of the internet, almost everything today has gone digital and so have banks and financial institutions. In case customers wish to apply for a credit card, they can do so online. They can fill in an application form and submit it online. In order to do so, customers will have to follow the steps given below -
+</p>
+
+<ol>
+  <li>Individuals will have to visit the official website of the bank and apply credit card online of their choice, as long as they meet the eligibility criteria.</li>
+  <li>Customers can also e-mail the bank if necessary in order to avail a credit card.</li>
+</ol>
+
+
+<p>Another convenient online credit card application can be made through financial websites such as BankBazaar.com. In order to do so, the following steps will have to be taken -</p>
+
+
+<ul>
+  <li>All customers will have to do is to visit the BankBazaar website and choose â€˜Credit Cardsâ€™ which will be on top of the page.</li>
+  <li>They will then be taken to another page wherein they will see a list of available credit cards. Customers also have the option to filter the list based on the name of the bank and other criteria.</li>
+  <li>They will then have to click on the card that they wish to procure and select the â€˜Check Eligibilityâ€™ link.</li>
+  <li>The applicant will need to answer the listed questions and if they meet the required criteria, they can click on the â€˜Instant Applyâ€™ button, fill up the form and submit it.</li>
+</ul>
+
+
+<h3>Apply for Credit Card Offline</h3>
+
+<p>Another option that can be availed is applying for a credit card offline. In order to do so, the steps given below will have to be followed -</p>
+
+
+<ul>
+  <li>This can be done by visiting a branch of the bank that the customer wants to avail a credit card from.</li>
+  <li>Applicants will be asked to fill the necessary forms and in case they meet the required eligibility criteria, they will be able to avail the said credit card.</li>
+  <li>Alternatively, you can also approach the banks by calling their support centres which are typically available 24/7 on all days of the week.</li>
+</ul>
+
+
+<div class="row btm-pad twi-accordion col-md-12 ">
+  <div id="accordion" class="panel-group">
+
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h2 class="panel-title"> <a href="#26Oct16045120" data-parent="#accordion" data-toggle="collapse" class="accordion-toggle collapsed">
+          <span class="fui-plus"></span>Bankbazaar Credit Card Special Offers:</a></h2>
+      </div>
+      <div class="panel-collapse collapse" id="26Oct16045120" >
+        <div class="panel-body twi-auto-height">
+
+
+          <p><strong>Super Duper Deals by BankBazaar:</strong></p>
+
+          <ul>
+            <li>Apply for a credit card to avail Amazon gift voucher worth upto Rs.1000</li>
+            <li>The voucher will be given on approval of the card application</li>
+            <li>Offer valid from December 1, 2018 to December 31, 2018</li>
+          </ul>
+
+          <p><strong>Axis Bank Privilege Credit Card:</strong></p>
+
+          <ul>
+            <li>50% waiver on Joining Fee</li>
+            <li>This is applicable for all the customers</li>
+            <li>The offer is valid till further notice</li>
+          </ul>
+
+          <p><strong>American Express Gold Card:</strong></p>
+
+          <ul>
+            <li>No Annual fee for the first year</li>
+            <li>This is applicable to special corporates</li>
+            <li>The offer is valid till further notice</li>
+          </ul>
+
+          <p><strong>American Express Platinum Reserve Credit Card:</strong></p>
+
+          <ul>
+            <li>No Annual fee for the first year</li>
+            <li>This is applicable to special corporates</li>
+            <li>The offer is valid till further notice</li>
+          </ul>
+
+          <p> <strong>HDFC Bank Regalia Card:</strong></p>
+
+          <ul>
+            <li>No Annual Fee</li>
+            <li>This is applicable for special corporate customers</li>
+            <li>The offer is valid till further notice</li>
+          </ul>
+
+          <p><strong>HDFC Bank Regalia First Card:</strong></p>
+
+          <ul>
+            <li>No Annual Fee</li>
+            <li>This offer is applicable for special corporate customers</li>
+            <li>The offer is valid till further notice</li>
+          </ul>
+
+          <p><strong>HDFC Bank Money Back Card:</strong></p>
+
+          <ul>
+            <li>No Annual Fee</li>
+            <li>This is applicable for special corporate customers</li>
+            <li>The offer is valid till further notice</li>
+          </ul>
+
+          <p><strong>IndusInd Bank Credit Card</strong></p>
+
+          <ul>
+            <li>No joining fee charged on spending Rs.25,000 within 3 months of card issue date</li>
+            <li>Fees charged will be credited to the card within the 5th month</li>
+            <li>The offer is valid till further notice</li>
+          </ul>
+
+
+          <p><strong>IndusInd Bank Platinum Card: </strong></p>
+          <ul>
+            <li>No Annual fee for the first year</li>
+            <li>This is applicable for all the customers</li>
+            <li>The offer is valid till further notice</li>
+          </ul>
+          <p><strong>IndusInd Bank Platinum Aura Edge Master Card: </strong></p>
+          <ul>
+            <li>No Annual fee for the first year</li>
+            <li>This is applicable for all the customers</li>
+            <li>The offer is valid till further notice</li>
+          </ul>
+          <p><strong>IndusInd Bank Platinum Aura Edge Visa Credit Card: </strong></p>
+          <ul>
+            <li>No Annual fee for the first year</li>
+            <li>This is applicable for all the customers</li>
+            <li>The offer is valid till further notice</li>
+          </ul>
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+</div>
+<p><em>*Taxes will be levied as applicable on these charges.</em><em> The charges in the table are subject to change based on future revisions implemented by the banks</em></p>
+
+<h2 id="Compare_Credit_Cards_from_Top_Banks_in_India">Compare Credit Cards from Top Banks in India:</h2>
+<div class="col-md-12 lp-widget lp-widget-table clearfix btm-pad-10 top-pad-10">
+  <div class="lp-widget-panel bg-white col-xs-12 col-sm-4">
+    <div class="lp-widget-details border-blue text-center">
+      <img alt="Amex Cards Online" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" class="img-responsive lazy" data-original="/images/india/infographic/top-amex-credit-card.png">
+      <strong class="center-block top-pad-10">Amex Cards</strong>
+      <div class="tb-pad-10 text-center clearfix">
+        <span class="center-block clearfix border-top-alto btm-pad-10">Grace Period: Up to 48 days</span>
+        <span class="center-block clearfix border-top-alto tb-pad-10">Interest Rates: 1.99% to 3.50% per month</span>
+        <span class="center-block clearfix border-top-alto tb-pad-10">Annual Fees: Rs.750 to Rs.10,000</span>
+      </div>
+      <div class="row">
+        <a href="/american-express-credit-card.html" title="Amex Credit Card" target="_blank" class="btn text-white bg-persimmon">View</a>
+      </div>
+    </div>
+  </div>
+  <div class="lp-widget-panel bg-white col-xs-12 col-sm-4">
+    <div class="lp-widget-details border-blue text-center">
+      <img alt="Axis Cards Online" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" class="img-responsive lazy" data-original="/images/india/infographic/top-axis-credit-card.png">
+      <strong class="center-block top-pad-10">Axis Bank Cards</strong>
+      <div class="tb-pad-10 text-center clearfix">
+        <span class="center-block clearfix border-top-alto btm-pad-10">Grace Period: 20 to 50 days</span>
+        <span class="center-block clearfix border-top-alto tb-pad-10">Interest Rates: 2.50% to 3.25% per month</span>
+        <span class="center-block clearfix border-top-alto tb-pad-10">Annual Fees: Rs.0 to Rs.30,000</span>
+      </div>
+      <a href="/axis-credit-card.html" title="Axis Credit Card" target="_blank" class="btn text-white">View</a>
+    </div>
+  </div>
+  <div class="lp-widget-panel bg-white col-xs-12 col-sm-4">
+    <div class="lp-widget-details border-blue text-center">
+      <img alt="Citibank Credit Card" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" class="img-responsive lazy" data-original="/images/india/infographic/top-citibank-credit-card.png">
+      <strong class="center-block top-pad-10">Citibank Credit Card</strong>
+      <div class="tb-pad-10 text-center clearfix">
+        <span class="center-block clearfix border-top-alto btm-pad-10">Grace Period: Up to 50 days</span>
+        <span class="center-block clearfix border-top-alto tb-pad-10">Interest Rates: 3.10% to 3.50% per month</span>
+        <span class="center-block clearfix border-top-alto tb-pad-10">Annual Fees: Rs.500 to Rs.20,000</span>
+      </div>
+      <a href="/citibank-credit-card.html" title="Citibank Credit Card" target="_blank" class="btn text-white">View</a>
+    </div>
+  </div>
+</div>
+<div class="col-md-12 lp-widget lp-widget-table clearfix btm-pad-10 top-pad-10">
+  <div class="lp-widget-panel bg-white col-xs-12 col-sm-4">
+    <div class="lp-widget-details border-blue text-center">
+      <img alt="HDFC Cards" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" class="img-responsive lazy" data-original="/images/india/infographic/top-hdfc-credit-card.png">
+      <strong class="center-block top-pad-10">HDFC Cards</strong>
+      <div class="tb-pad-10 text-center clearfix">
+        <span class="center-block clearfix border-top-alto btm-pad-10">Grace Period: Up to 50 days</span>
+        <span class="center-block clearfix border-top-alto tb-pad-10">Interest Rates: 1.99% to 3.49% per month</span>
+        <span class="center-block clearfix border-top-alto tb-pad-10">Annual Fees: Rs.299 to Rs.10,000</span>
+      </div>
+      <div class="row">
+        <a href="/hdfc-credit-card.html" title="HDFC Credit Card" target="_blank" class="btn text-white bg-persimmon">View</a>
+      </div>
+    </div>
+  </div>
+  <div class="lp-widget-panel bg-white col-xs-12 col-sm-4">
+    <div class="lp-widget-details border-blue text-center">
+      <img alt="HSBC Card Apply Online" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" class="img-responsive lazy" data-original="/images/india/infographic/top-hsbc-credit-card.png">
+      <strong class="center-block top-pad-10">HSBC Cards</strong>
+      <div class="tb-pad-10 text-center clearfix">
+        <span class="center-block clearfix border-top-alto btm-pad-10">Grace Period: Up to 52 days</span>
+        <span class="center-block clearfix border-top-alto tb-pad-10">Interest Rates: 1.99% to 3.30% per month</span>
+        <span class="center-block clearfix border-top-alto tb-pad-10">Annual Fees: Rs.0 to Rs.500</span>
+      </div>
+      <a href="/hsbc-credit-card.html" title="HSBC Credit Card" target="_blank" class="btn text-white">View</a>
+    </div>
+  </div>
+  <div class="lp-widget-panel bg-white col-xs-12 col-sm-4">
+    <div class="lp-widget-details border-blue text-center">
+      <img alt="ICICI Credit Card" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" class="img-responsive lazy" data-original="/images/india/infographic/top-icici-credit-card.png">
+      <strong class="center-block top-pad-10">ICICI Credit Cards</strong>
+      <div class="tb-pad-10 text-center clearfix">
+        <span class="center-block clearfix border-top-alto btm-pad-10">Grace Period: 18 to 48 days</span>
+        <span class="center-block clearfix border-top-alto tb-pad-10">Interest Rates: 2.49% to 3.50%</span>
+        <span class="center-block clearfix border-top-alto tb-pad-10">Annual Fees: Rs.199 to Rs.7,000</span>
+      </div>
+      <a href="/icici-credit-card.html" title="ICICI Credit Card" target="_blank" class="btn text-white">View</a>
+    </div>
+  </div>
+</div>
+
+<div class="col-md-12 lp-widget lp-widget-table clearfix btm-pad-10 top-pad-10">
+  <div class="lp-widget-panel bg-white col-xs-12 col-sm-4">
+    <div class="lp-widget-details border-blue text-center">
+      <img alt="Indusind Cards" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" class="img-responsive lazy" data-original="/images/india/infographic/top-indusind-credit-card.png">
+      <strong class="center-block top-pad-10">Indusind Cards</strong>
+      <div class="tb-pad-10 text-center clearfix">
+        <span class="center-block clearfix border-top-alto btm-pad-10">Grace Period: Up to 50 days</span>
+        <span class="center-block clearfix border-top-alto tb-pad-10">Interest Rates: 3.83% per month</span>
+        <span class="center-block clearfix border-top-alto tb-pad-10">Annual Fees: Rs.0 to Rs.4,000</span>
+      </div>
+      <div class="row">
+        <a href="/indusind-credit-card.html" title="Indusind Credit Card" target="_blank" class="btn text-white bg-persimmon">View</a>
+      </div>
+    </div>
+  </div>
+  <div class="lp-widget-panel bg-white col-xs-12 col-sm-4">
+    <div class="lp-widget-details border-blue text-center">
+      <img alt="Kotak Cards Online" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" class="img-responsive lazy" data-original="/images/india/infographic/top-kotak-credit-card.png">
+      <strong class="center-block top-pad-10">Kotak Credit  Cards</strong>
+      <div class="tb-pad-10 text-center clearfix">
+        <span class="center-block clearfix border-top-alto btm-pad-10">Grace Period: Up to 48 days</span>
+        <span class="center-block clearfix border-top-alto tb-pad-10">Interest Rates: 2.49% to 3.50% per month</span>
+        <span class="center-block clearfix border-top-alto tb-pad-10">Annual Fees: Rs.0 to Rs.5,000</span>
+      </div>
+      <a href="/kotak-credit-card.html" title="Kotak Credit Card" target="_blank" class="btn text-white">View</a>
+    </div>
+  </div>
+  <div class="lp-widget-panel bg-white col-xs-12 col-sm-4">
+    <div class="lp-widget-details border-blue text-center">
+      <img alt="SBI Cards Online" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" class="img-responsive lazy" data-original="/images/india/infographic/top-sbi-credit-card.png">
+      <strong class="center-block top-pad-10">SBI Credit Card</strong>
+      <div class="tb-pad-10 text-center clearfix">
+        <span class="center-block clearfix border-top-alto btm-pad-10">Grace Period: 20 to 50 days</span>
+        <span class="center-block clearfix border-top-alto tb-pad-10">Interest Rates: Up to 3.35% per month</span>
+        <span class="center-block clearfix border-top-alto tb-pad-10">Annual Fees: Rs.499 to Rs.4,999</span>
+      </div>
+      <a href="/sbi-credit-card.html" title="SBI Credit Card" target="_blank" class="btn text-white">View</a>
+    </div>
+  </div>
+</div>
+
+
+
+<p><strong>Note</strong> â€“ The rates/fees and charges may be changed by the banks at any time.</p>
+
+<h2>Various Elements Printed on a Credit Card</h2>
+<p>A credit card might look like any other card with number, logos and other information. But are you aware that each element on a credit card has a purpose? This section will help you understand the significance of each and every element printed on the front and rear side of a credit card.</p>
+<p><strong>Let&rsquo;s discuss the elements on the front-side of a credit card.</strong></p>
+<ul>
+  <li><strong>Credit card number: </strong>The 16-digit number is one of the prominent elements of a credit card. If you think it&rsquo;s a random, machine-generated number, you&rsquo;re wrong. Each digit or a set of digits of the number not only provide specific information but are also used to identify the authenticity of the card, just by doing a simple math.</li>
+</ul>
+<ul>
+  <ul>
+    <li>The first digit of the 16-digit number is the Major Industry Identifier (MII) and indicates a specific industry that issued the card. For banking and financial institutions, the digits 4 and 5 are assigned by the regulatory. Hence most of the credit cards numbers issued in India begin with 4 and 5. While Visa credit cards begin with 4, MasterCard powered card begin with 5. American Express cards, on the other hand, begin with 3.</li>
+  </ul>
+</ul>
+<ul>
+  <ul>
+    <li>The next 5 digits along with the first digit represent the issuer or the bank. They are thus called Issuer Identification Number or Bank Identification Number (BIN). Each bank uses a different sequence of IIN. Hence by looking at the first 6 digits, one can identify the issuing authority.</li>
+  </ul>
+</ul>
+<ul>
+  <ul>
+    <li>The digits 7 to 15 contain the primary account number of the credit card. The number is unique for each cardholder. The number is crucial to identify the customer hence are often masked in all the bank communications.</li>
+  </ul>
+</ul>
+<ul>
+  <ul>
+    <li>The last digit, the 16th, is called the check digit as it is used to check the accuracy of other digits on the card. The last digit can be generated by applying a mathematical formula called the Luhn Algorithm to the previous digits. One wrong number will give a different result and that&rsquo;s how inaccuracy of the digits will be identified.</li>
+  </ul>
+</ul>
+<ul>
+  <li><strong>The logos and names on the credit card: </strong>The next prominent components on a credit card are the issuer&rsquo;s logo, the name of the card, card networks such as Visa, MasterCard, RuPay, etc., the cardholder&rsquo;s name, and the validity date.</li>
+</ul>
+<ul>
+  <li><strong>The chip and the contactless icon: </strong>These are the new entrants, we can say. With the Reserve Bank of India (RBI) mandating the conversion of all magnetic stripe-only cards into EMV-chip-based cards, all the new credit cards issued after 31 January 2016 are chip based. If your card is upgraded, you can see an EMV chip on the front side.</li>
+</ul>
+<p>Another latest feature that has been introduced by credit card issuers is the contactless payment feature. If your card has the feature, you will find a symbol similar to a Wi-Fi symbol on your card.</p>
+<p><strong>Now let&rsquo;s move on to the back-side of a credit card.</strong></p>
+<ul>
+  <li><strong>Magnetic stripe</strong>: Despite the introduction of EMV chip-based cards, the magnetic stripe, which carries all the crucial account information, still exists till the time all the retail terminals in India are upgraded to accept chip-based cards. This means, even though you receive a credit card very recently, it&rsquo;s likely that you will see both chip and stripe on your card.</li>
+</ul>
+<ul>
+  <li><strong>CVV: </strong>The CVV or Card Verification Value is a security code that is used as a fraud-prevention tool. The CVV is typically used for online or card-not-present transactions. While VISA and MasterCards have 3 digits in the CVV, Amex has 4 digits.</li>
+</ul>
+<ul>
+  <li><strong>Signature box, hologram, and others: </strong>The signature box is another security feature on a credit card. Every cardholder needs to sign in the box to make the card legally valid. In case suspicious cases, the signature on the card will be cross verified with other signature proofs the cardholders carry.</li>
+</ul>
+<p>The hologram is the glittering little sticker that prevents physical copying of the card. It contains various layers with images imprinted at different angles. Its design makes it hard to copy using a scanner or other instrument. Hence, it also acts as another security feature on the card.</p>
+
+
+
+
+<h2 id="Compare_Credit_Cards">How to Use a Credit Card</h2>
+<p>Though the primary functionality of a credit card is to use it only for card-only transactions, such as to purchase goods or services at retail merchant terminals or online, the cash withdrawal feature offered on most the cards, allows the cardholders to withdraw a portion of the amount as cash from ATM. However, in both of the cases, the cardholders need a PIN (personal identification number) to process the transaction. </p>
+<p>The credit card issuers generate a unique PIN for every credit card and share it with the cardholder once the card is issued. Earlier, banks used to send the PIN through PIN mailer. But now they prefer green PINs which are self-generated by the cardholder. The PIN generation process is different for each bank and the same will be communicated to the cardholder once the card is activated. </p>
+<p>Once you receive the PIN, you can start using your credit card. Especially at POS terminals, you need to input the PIN once your card is dipped/swiped and the amount is entered. While some online transactions may require the PIN, others may ask for other security info such as CVV or one-time password. For ATM withdrawals, you can follow the same process as you do to withdraw cash using your debit card. The same PIN needs to be entered when necessary. </p>
+
+
+
+<h2 id="Features_of_Credit_Cards">Features of a Credit Card</h2>
+
+<p>Banks offer amazing features on their credit cards. These features vary depending on the card provider and the type of credit card that people purchase. Some of them are as follows:</p>
+<p><strong>Reward Points Program:</strong> Most credit cards offer a reward points program, which allows cardholders to earn reward points on every transaction they make using their cards. A few exceptions to it is that fuel transactions, insurance payments, gold or gold jewellery purchases, utility bill payments, cash and EMI transactions are typically not eligible for reward points. </p>
+<p>The accrued reward points can be redeemed for various options offered in exclusive rewards catalogues provided by the issuers. However, card members need to earn minimum reward points before going for redemption. </p>
+<p><strong>Airport Lounge Access:</strong> Complimentary airport lounge access and membership to Priority Pass Program are one of the most common features offered on most credit cards. Though you may not find the features on a basic credit card, most next to basic credit card offers complimentary lounge access with a limited number of visits per year, free membership to airport priority pass programs and others. With such a feature on credit card, members can enjoy free lounge visits to both domestic and international airports. </p>
+<p><strong>Fuel Surcharge Waiver:</strong> Another common aspect offered on most credit cards is the fuel surcharge waiver facility that waives off the 1% surcharge that is typically charged on all card transactions conducted at petrol stations. </p>
+<p><strong>Insurance Coverage:</strong> While some premier cards provide a comprehensive insurance policy that provides coverage against air accident, life, lost baggage, lost card, outstanding, etc. On other cards, the cover is limited to a few aspects. </p>
+<p><strong>Global Acceptance:</strong> Today, most credit cards that are issued in India are international cards and are accepted by various merchants all over the world.</p>
+<p><strong>Balance Transfer:</strong> Credit cardholders can transfer the outstanding balance of their existing cards issued by one bank to the credit card account of another bank. Doing so helps them in saving money and repaying the amount at a low rate of interest. Banks offer various balance transfer options to their cardholders allowing them to repay the amount on a monthly basis within a tenure of their choice.</p>
+<p><strong>EMI Conversion:</strong> The feature allows the credit card members to convert their credit card transaction into easy monthly instalments (EMI). They can either choose to convert the total outstanding on their card into EMI, a specific transaction, especially big-ticket purchases into EMI and can also convert merchant transactions into EMI.Generally, these plans have very attractive interest rates and different repayment tenures. The EMI conversion will be done with no other documentation and most of the times instant. </p>
+<p><strong>Lifestyle Benefits:</strong> By partnering with various merchants, credit card issuers provide attractive discounts and offers on various lifestyle categories including dining, shopping, travel, wellness, entertainment, etc. </p>
+<p><strong> Travel Benefits:</strong> Frequent travellers can make the best use of the travel credit cards that provide travel-related benefits to the cardholders. Some of the common benefits offered on travel credit cards include air miles accrual and redemption for air tickets, free travel insurance, discount offers on domestic and international flights, complimentary lounge visits, discounts on hotel booking, and concierge services. </p>
+
+
+
+<h2>Benefits of a Credit Card</h2>
+<p><strong>Welcome Gift</strong> â€“ Many banks offer a welcome gift to new credit card applicants once the card is issued to them. This gift can be in the form of bonus points, gift vouchers, discounts, etc. The welcome gift differs depending on the card and the bank.</p>
+<p><strong>Rewards Program</strong> â€“ All credit cards generally have a reward program, which allows cardholders to earn reward points on every transaction they make using their cards. The amount of points that cardholders can earn per transaction is fixed and differs from card to card. The points that card members collect can be redeemed for various gifts that are listed in the rewards catalogue of the cards. These gifts can be discounts, product, services, cashback offers, etc. Some credit cards allow card members to redeem their points against air miles and cash as well.</p>
+<p><strong>Fuel Surcharge Waiver</strong> â€“ Many banks offer fuel surcharge waiver to credit cardholders when they spend specific amount of money on fuel every month. This offer is available on fuel transactions made at all Indian petrol bunks.</p>
+<p><strong>Cashback Benefits</strong> â€“ There are certain credit cards that offer cashback benefits to the customers. The amount of cashback that will be offered depends on the provider.</p>
+<p><strong>Lifestyle Benefits</strong> â€“ Cardholders can enjoy various lifestyle benefits on their credit cards. Lifestyle benefits include dining, shopping, golf, wellness, entertainment, etc. privileges.</p>
+<p><strong>Travel Benefits</strong> â€“ This is one of the major reasons for credit cards being so popular among people. There are some credit cards that offer amazing travel benefits to the customers. Travel benefits include air miles, airport lounge access, travel insurance, airline offers, hotel offers, etc.</p>
+<p><strong>Airport Lounge Access</strong> â€“ Some credit cards offer complimentary airport lounge access to the cardholders. The offer varies from one bank to another. Some banks put a limit on the number of visits, while some others allow access only to Indian airport lounges.</p>
+<p><strong>Exclusive Privileges from Visa/American Express/MasterCard</strong> â€“ Visa, MasterCard and American Express are three popular and recognized credit card variants. Depending on the variant of your card, you can enjoy exclusive lifestyle, travel, etc. offers from MasterCard/Visa/American Express.</p>
+<p><strong>Add-on Cards</strong> â€“ Many banks allow their credit cardholders to apply for add-on cards for their immediate family members. Most card issuers offer add-on cards for free, but some of them limit the amount of add-on cards that one can apply for. Cardholders can enjoy all the privileges of their primary cards on their add-on cards.</p>
+<p id="Credit_Cards_in_India"><strong>Air Miles</strong> â€“ Certain credit cards such as travel or Airline cards offer Air Miles to their customers. These miles can be JPMiles, Air India Air Miles, etc. Cardholders can collect these miles and redeem them to avail flight tickets and other travel benefits.</p>
+
+<h2>Credit Card Interest-Free Period</h2>
+
+<p>Also called grace period, the interest-free period on a credit card ranges from 20 to 50 days depending on the scheme applicable on the credit card. However, the grace period is not applicable if the previous month's due has not been paid in full or if the cardholder has availed the cash withdrawal facility.</p>
+<h2>Credit Card Billing Cycle</h2>
+
+<p>Once a credit card is issued, 30 days from the date of issuance, the issuer will generate a monthly statement which is also called credit card statement, which shows all the transactions done on the card as transactions debited to the account and any payments made towards the card as credited transactions. The statement will be mailed to the cardholders every month on a predetermined date. However, if the outstanding balance is less than a certain cut-off, say Rs.200, no statement will be generated.</p>
+
+<p>The cardmember has a facility of revolving credit in which he/she can pay only the minimum amount due, as printed on the statement, or the total amount due, or anything in between. If the payment is less than the total amount due, the remaining amount will be carried forward to subsequent statements. The carried forward amount will attract interest at the prevailing rate. All the payments, however, should be made on or before the due date to avoid late payment charges. </p>
+
+
+<h2 id="Documents_Required_to_Apply_for_a_Credit_Card_Online">Documents Required to Apply for a Credit Card Online</h2>
+<p>Applicants can submit any one of the ID proof, address proof and income proof documents listed below</p>
+<div class="row btm-pad twi-accordion col-md-12 ">
+  <div id="accordion" class="panel-group">
+
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h2 class="panel-title"> <a href="#26Oct16045121" data-parent="#accordion" data-toggle="collapse" class="accordion-toggle collapsed">
+          <span class="fui-plus"></span>Proof of Identity/ID proof</a></h2>
+      </div>
+      <div class="panel-collapse collapse" id="26Oct16045121" style="height: 0px;">
+        <div class="panel-body twi-auto-height">
+          <ul>
+            <li>Passport</li>
+            <li>PAN Card</li>
+            <li>Ration Card</li>
+            <li>Aadhaar Card</li>
+            <li>Voterâ€™s ID Card</li>
+            <li>Driving License</li>
+          </ul>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="clearfix"></div>
+
+<div class="row btm-pad twi-accordion col-md-12 ">
+  <div id="accordion" class="panel-group">
+
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h2 class="panel-title"> <a href="#26Oct16045123" data-parent="#accordion" data-toggle="collapse" class="accordion-toggle collapsed">
+          <span class="fui-plus"></span>Proof of Address</a></h2>
+      </div>
+      <div class="panel-collapse collapse" id="26Oct16045123" style="height: 0px;">
+        <div class="panel-body twi-auto-height">
+          <ul>
+            <li>Telephone Bill
+            </li>
+            <li>Electricity Bill
+            </li>
+            <li>Passport</li>
+            <li>Ration Card
+            </li>
+            <li>Rental Agreement
+            </li>
+            <li>Aadhaar Card</li>
+          </ul>
+
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row btm-pad twi-accordion col-md-12 ">
+  <div id="accordion" class="panel-group">
+
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h2 class="panel-title"> <a href="#26Oct16045124" data-parent="#accordion" data-toggle="collapse" class="accordion-toggle collapsed">
+          <span class="fui-plus"></span>Proof of Income (For Salaried)	</a></h2>
+      </div>
+      <div class="panel-collapse collapse" id="26Oct16045124" style="height: 0px;">
+        <div class="panel-body twi-auto-height">
+          <ul>
+            <li>Salary Certificate</li>
+            <li>Recent Salary slip/s
+            </li>
+            <li>Employment Letter
+            </li>
+            <li>Aadhaar Card</li>
+            <li>Voterâ€™s ID Card</li>
+            <li>Driving License</li>
+          </ul>
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row btm-pad twi-accordion col-md-12 ">
+  <div id="accordion" class="panel-group">
+
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h2 class="panel-title"> <a href="#26Oct16045125" data-parent="#accordion" data-toggle="collapse" class="accordion-toggle collapsed">
+          <span class="fui-plus"></span>Proof of Income (For Self-Employed)
+        </a></h2>
+      </div>
+      <div class="panel-collapse collapse" id="26Oct16045125" style="height: 0px;">
+        <div class="panel-body twi-auto-height">
+
+          <ul>
+            <li>Certified Financials
+            </li>
+            <li>Recent ITR (Income Tax Returns) Statement
+            </li>
+            <li>Ration Card</li>
+            <li>Aadhaar Card</li>
+            <li>Audited Profit and Loss Statement or Balance Sheet
+            </li>
+            <li>Proof of business continuity
+            </li>
+          </ul>
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+<p>Apart from the above mentioned documents, banks can ask the applicants to submit other documents, if required.</p>
+
+
+<h2 id="Credit_Card_Eligibility">Credit Card Eligibility</h2>
+<p>The eligibility criteria to apply for a credit card differs for each bank and also for each credit card. While the basic credit cards with nominal annual fee and minimal features require basic eligibility like constant source of income, good credit history or credit score, etc., the mid and premier range cards, which offer premier benefits and features, are typically issued to select group of people who meet the fixed criteria for income, credit score, and other parameters. To know your eligibility for a specific credit card, you can use the â€˜Check Eligibilityâ€™ feature offered on most bank websites. You can also use the same feature on Bankbazaar.com.
+</p><h2>Why to Apply for a Credit Card Online through BankBazaar</h2>
+<p>BankBazaar has made the process of comparing and applying for personal financial products very easy. The website has a user-friendly interface that allows people to navigate easily without getting confused at all. There are many reasons for applying for a credit card through BankBazaar. Some of them are as follows:</p>
+<p><strong>Simplifies the application</strong> process â€“ BankBazaar has simplified the credit card application process for Indians. Now, you do not have to visit the bankâ€™s outlet or every bankâ€™s website to compare cards and then apply for them. You just have to make a few clicks and you can get the same done online on BankBazaar website in no time.</p>
+<p><strong>Compare</strong> â€“ Before buying any personal finance products, it is advisable that you compare them. The process of comparing these products can be tedious and a lot of people tend to avoid it, which leads to them buying products that do not benefit them. To solve this problem, BankBazaar introduced a platform where people can compare credit cards offered by different banks online at one place. This not only helps them in making an informed decision, but also in getting the best credit card available in India.</p>
+<p><strong>Apply </strong>â€“ After comparing the credit cards, you can easily apply for the card you like on BankBazaarâ€™s website itself. You can find the cards you are eligible for easily and then click on the â€˜Instant Applyâ€™ button that is present next to the card of your choice. You can then fill up the application form and submit it online and within 30 minutes you will get a response.</p>
+<p><strong>Information</strong> â€“ On the website of BankBazaar, you can find every single detail about credit cards. Besides this, the site also provides you with the latest credit card news and keeps you updated about the happenings in the Indian financial market.</p>
+<p><strong>24x7 Support</strong> â€“ Apart from the above, BankBazaar provides 24x7 support to all its customers throughout the year.</p>
+<h2>How to calculate EMI for Credit Cards</h2>
+<p>Credit Cardholders can choose to convert certain transactions of theirs into monthly instalments. Card providers allow customers to choose the repayment period for their EMI (Equated Monthly Instalment) plans. Some banks nowadays offer 0% interest instalment payment plans to their credit cardholders. According to this plan, no interest is charged on the monthly instalments, which means cardholders have to pay the principal amount in parts within the tenure they have chosen.</p>
+<p>Some banks charge a low interest rate on the EMI plans of credit cards. In this case, the EMI amount comprises of the principal amount and the interest rate. So, every month cardholders are supposed to repay this amount, until they clear off their debt. They can calculate their instalment amount per month before applying for the plan by using an EMI Calculator online. This calculator will help them in figuring out how much they will be paying every month if they opted for a certain EMI plan. To use the EMI calculator, they have to simply enter details like the interest rate, principal amount and the tenure in it.</p>
+
+<h2>Credit Card Interest Rates</h2>
+
+<p id="Airlinescards">Banks charge a particular percentage as the interest rate on the borrowed amount and this is applicable if the monthly outstanding amount has not been repaid by the card holder. The interest rate is calculated as the Annual Percentage Rate (APR) and always depends on the type of credit card held. The applicable finance charges are determined on a monthly interest rate percentage and is generally calculated on the average daily balance basis for credit cards. While picking up a credit card, customer can always compare the APRs offered on each card and then choose according to their requirements. Customers who can make regular monthly repayments, can choose credit cards with rewards programs and travel loyalty programs. These type of credit cards tend to have a slightly higher APR. If a customer is looking for flexibility with regards to payments and mainly for purchases, then a credit card with a lower APR should be taken. The APR is always determined based on the applicantâ€™s credit score by any financial institution. All banks offer an interest free period ranging from 20 to 50 days to credit card holders as an additional feature.</p>
+<h2><strong>Different Types of Credit Cards</strong></h2>
+<p><strong>Airline credit cards: </strong>If you love to travel and fly often, you should apply for an airline credit card. Many credit card providers in our country join hands with leading airline companies like Jet Airways and Emirates to offer exclusive discounts on flight tickets to their cardholders. Also, you might get complimentary domestic flight tickets as joining bonus depending on the type of card you hold. Almost all airline credit card available in India are co-branded credit cards as the airline company partners with a credit card provider to issue such cards.</p>
+<p>Some of the popular airline credit cards available in India are HDFC Diners Jet, Amex Jet Privilege, ICICI Jet Sapphiro, SBI Air India Signature, Citi PremierMiles Credit Card, and Axis Bank Titanium Smart Traveller Card.</p>
+<p><h3>Some of the benefits of holding an airline credit card are as follows:</h3></p>
+<ul>
+  <li>It helps you save on your flight tickets.</li>
+  <li id="lifestylecards">Most airline credit cards also offer discounts and cashback on hotel bookings.</li>
+  <li>Depending on the credit card you own, you might also get free lounge access in domestic and international airports.</li>
+  <li>Co-branded credit cards exclusively designed for travelers usually have a strong reward program which allows the cardholder to earn reward points. Most credit card providers allow their cardholders to redeem these reward points against flight tickets.</li>
+</ul>
+<p><strong>Know More About <a href="/credit-card/airline-credit-cards.html">Airline Credit Cards</a></strong></p>
+<p><h3>Lifestyle Credit Cards:</h3> Lifestyle credit cards are exclusively designed to offer rewards and discounts on purchases made at selected merchants. These cards are best suited for those who love living a luxurious life. The card issuer offers cashback, discounts, gift vouchers, or reward points when the cardholder shops at selected shopping centers, fuel stations, restaurants, or websites. If you love shopping and spend a lot of money on entertainment or food bills, lifestyle credit cards are ideal for you.</p>
+<p id="fuelcards">While lifestyle credit cards are designed to offer great benefits for those who shop frequently, it usually comes with a high annual fee. Most lifestyle cards also require you to spend a certain sum of money to avail the discount. This way, you might end up spending more. Therefore, before you apply for a lifestyle credit card, compare various cards available and choose the one that suits your spending pattern. If you have a lifestyle credit card, make sure you check your credit card statements from time to time to check if you are using the benefits your card offers. Most banks waive the renewal fee if you have spent a certain amount on your card the previous year. Get in touch with your credit card provider and check if you qualify for a renewal fee waiver. This way, you will reduce the cost of owning a lifestyle credit card.</p>
+<p><strong>Know More About <a href="/credit-card/lifestyle-credit-cards.html">Lifestyle Credit Card</a></strong></p>
+<p><h3>Fuel Credit Cards: </h3>As the name indicates, fuel credit cards help cardholders to save on their fuel bills. Most credit cards issued in India has a fuel surcharge waiver feature. Fuel companies have to pay a surcharge of 1.5% to 2% of the transaction amount to accept card payments. As fuel companies operate at a very thin profit margin, they do not wish to pay this surcharge and often ask the issuer of the card to bear the expense. The banks in return recover this fee from the cardholder. However, few credit card providers are willing to let go of this surcharge and return the amount to the cardholder through the fuel surcharge waiver feature.</p>
+<p id="ShoppingCards">If you feel you are spending a huge amount of fuel every month, you could check with your credit card provider if they can waive the surcharge on your fuel transactions. Remember that even if your credit card comes with this feature, it may be applicable at selected fuel stations only. Get in touch with your bank and inquire about this feature and the fuel stations you can use your card to avail this benefit. Also, you can avail the fuel surcharge waiver benefit only if you spend the minimum transaction amount set by your bank.</p>
+<p><strong>Know More About <a href="/credit-card/fuel-credit-cards.html">Fuel Credit Card</a></strong></p>
+<p><h3>Shopping Credit Cards: </h3>If you are someone who loves to shop but have been putting aside your shopping plans because you are not sufficiently funded, you should know more about shopping credit cards. Shopping credit cards help frequent shoppers save while they spend. These cards offer cashback, discounts, shopping vouchers, and reward points every time the cardholder uses the card to shop at the selected merchant&rsquo;s store. Your credit card provider from time to time will keep you updated about the offers you are eligible to avail. Shopping credit cards offer attractive discounts on dining bills, gym memberships, golf fees, and movie tickets.</p>
+<p id="travelcards">Reward points earned on shopping credit cards can be redeemed against your shopping bills or can be converted into air miles and redeemed against your flight tickets. Some credit card companies also allow you to convert the reward points to cash and pay your monthly credit card bill. These cards also help cardholders to purchase expensive products and repay the amount borrowed in Equal Monthly Instalments (EMIs) with 0% interest rate. Which means, the cardholders pay nothing extra. From time to time, banks will announce the promotional codes you can use to avail specific discounts. You simply need to enter the promo code before paying for your purchase to redeem the discount.</p>
+<p><strong>Know More About&nbsp;<a href="/credit-card/shopping-credit-cards.html">Shopping Credit Cards</a></strong></p>
+<p><h3>Travel Credit Cards: </h3>When we plan a trip, we always search for coupons, promo codes, or vouchers to reduce the cost of the trip. But, did you know that you can save a lot on your traveling bills if you use your travel credit card for your expenses? What are travel credit cards? A travel credit card is designed to offer exclusive discounts on your travel bills like flight and hotel bookings, cab fare, and dining. Some travel credit cards also offer complimentary flight tickets to their cardholders as a welcome gift.</p>
+<p id="businesscards">Most travel cards focus on helping you earn air miles that can be redeemed for free flight tickets or discounts on them. Depending on the type of card you hold, you could also get complimentary airport lounge access, fuel surcharge waiver, concierge services, and free travel insurance. Banks offer generous joining bonuses when you sign-up for a travel credit card. Apart from the reward program, most cards also offer other benefits like free checked bag, free breakfast, and priority boarding. Though these cards are very beneficial, it is important to consider some factors such as the joining fees, interest rate, processing fees, blackout dates, and other fees and charges before you opt for it.</p>
+<p><strong>Know More About&nbsp;<a href="/credit-card/travel-credit-cards-in-india.html">Travel credit cards</a></strong></p>
+<p><h3>Business Credit Cards:</h3> Business credit cards are gaining popularity these days. These cards provide business owners with a revolving line of credit which is easily accessible to meet their short-term financial needs. Instead of applying for a business loan, they can use their credit card. Holding a business credit card increases the purchasing power of the business and helps them manage their finances better. Like any other credit card, business credit cards also charge an interest rate if the cardholder does not repay the total outstanding balance on the card in full before the due date or before the interest-free period ends.</p>
+<p id="cobrandedcards">As business credit cards do not require collateral, many small businesses in our country prefer these cards to traditional small business loans which require many documents. A business credit card acts as a financial cushion for budding businesses who are not sufficiently funded. Though business credit cardholders get a monthly statement, most banks also allow the employer to track their expenses online like check their year-end account summary, categorize their expenses, run an audit, and pay their taxes. Holding a business credit card helps businesses build a positive credit score if they pay their dues on time, which, in turn, will help them qualify for a line of credit in the future if the need arises.</p>
+<p><strong>Know More About&nbsp;<a href="/credit-card/best-business-credit-cards-in-india.html">Business credit cards</a></strong></p>
+<p><h3>Co-branded Credit Cards: </h3>A few decades ago, all credit cards looked the same. Off late, you can see credit cards with attractive logos, designs, and colors. A retail merchant such as a department store, airline company, e-commerce company, or a bank partners with a specific network processor like Visa or MasterCard to issue a co-branded credit card. These cards are designed exclusively to give discounts on merchandise or service they purchase from the sponsored merchant using the card.</p>
+<p id="corporatecards">If you are someone who loves traveling, you can choose a co-branded credit card sponsored by an airline company like Jet Airways and enjoy cashback, discounts, and other benefits when you travel. But, if you are someone who loves to shop, you can choose a co-branded card that is issued in association with a shopping merchant. Before applying for a co-branded card, take the time out to analyse your spending habits and choose a card that benefits you and meets your requirements. Though, co-branded cards offer you benefits that are tailored to your spending habits, it is wise to use it only when it is required as it has the potential to push you into the debt trap. Check the annual fees and other charges and read the fine print before you get a credit card.</p>
+<p><strong>Know More About&nbsp;<a href="/credit-card/best-co-branded-credit-cards-in-india.html">Co-branded credit cards</a></strong></p>
+<p><h3>Corporate Credit Cards: </h3>Unlike business credit cards, corporate credit cards are issued by a company to their employees to pay pre-approved business-related expenses. These cards are usually issued in the company&rsquo;s name but also display the employee&rsquo;s name. Most corporate cards come with features like complimentary travel insurance, concierge services, air accident insurance, emergency cash disbursement service, spend management tool, complimentary priority pass program, lounge access, and rewards program.</p>
+<p>When it comes to payment, corporate credit cards can be classified into two, namely individual payment card and corporate payment card. If you hold an individual payment card, you will be responsible to track the expenses as per the corporate policy and pay the issuer directly. On the other hand, the company is responsible to pay if it is a corporate payment card. However, non-sanctioned charges should be paid by the employee.</p>
+<p id="diningcards">Though corporate credit cards come with great benefits, it has the potential to accumulate huge debt if you do not use it wisely. It is recommended to not use your corporate card for personal expenses however tempting it may be. Most corporates that issue these cards have a dedicated travel card manager who audits the transactions made on the card. Using a corporate credit card for personal expenses will negatively affect your reputation at work.</p>
+<p><strong>Know More About&nbsp;<a href="/credit-card/corporate-credit-card.html">Corporate credit cards</a></strong></p>
+<p><h3>Dining Credit Cards:</h3> If you are a foodie and love to taste different cuisines and enjoy your time with your loved ones at a fancy restaurant, dining credit cards are for you. Those who love dining are aware of the problems associated with it like hefty bills. That&rsquo;s exactly why there is a plethora of dining credit cards available in India that helps cardholders trim their dining bills. What are dining credit cards? As the name suggests, dining credit cards are issued to offer a discount on the cardholder&rsquo;s dining bills. If you are spending a lot on dining, it is time to compare various dining cards available in the market and pick one that offers you the maximum discount.</p>
+<p id="EntertainmentCards">Credit card providers tie-up with leading restaurants and eateries and offer vouchers, coupons, cashback, or instant discount when the cardholders dine in any one of the partnered restaurants. This way, cardholders save while they are spending. Most dining credit cards are known for their excellent loyalty program where cardholders are given reward points every time they swipe their credit card to pay their dining bill. Cardholders can redeem their reward points against flight tickets or shopping bills. Few cards also allow the cardholders to use the reward points to pay the monthly credit card bill.</p>
+<p><strong>Know More About&nbsp;<a href="/credit-card/dining-credit-cards-in-india.html">Dining credit cards</a></strong></p>
+<p><h3>Entertainment Credit Cards: </h3>If you love going out frequently, entertainment credit cards can help you grab amazing offers. Whether you love watching a movie every weekend or partying hard, entertainment cards are designed to offer excellent discounts on your entertainment bills. Often credit card providers partner with leading movie halls, amusement parks, game arenas, restaurants, bowling centers, spas, and other entertainment outlets to offer a discount to their cardholders.</p>
+<p id="rewardscards">You may get free vouchers and coupons as a welcome gift if you opt for an entertainment credit card. Most cards offer a discount of 10% to 25% if the cardholder uses the card at any one of the participating merchant&rsquo;s store. From time to time, your credit card provider might also launch &ldquo;Buy one get one free&rdquo; in the selected store. You can use this offer to grab a drink or treat your family to a lovely dinner. With an entertainment credit card, you may also get complimentary movie tickets every month, discounts at spas and salons, golf benefits, cashback on your travel bookings, and attractive dining offers. If you spend a lot of money on entertainment, compare various cards available in the market that might benefit you. Start saving while you spend. This way, you won&rsquo;t regret it when you check your bank statements after having a great time!</p>
+<p><strong>Know More About&nbsp;<a href="/credit-card/entertainment-credit-cards-in-india.html">Entertainment credit cards</a></strong></p>
+<p><h3>Rewards Credit Cards: </h3>Almost all credit card in India have an excellent loyalty program under which cardholders can earn reward points every time they use the card to make certain transactions. However, cardholders were required to spend a certain sum of money on their card to earn the reward points. This often pushed them into the debt trap. Reward credit cards were introduced to allow cardholders to accumulate reward points without spending a hefty amount.</p>
+<p id="UtilitiesCards">Certain reward credit cards available in India allow their cardholders to earn 10X reward points on spends made at department and apparel stores. Most reward credit cards let the cardholder earn reward points for every Rs.125 spent on all purchases. The minimum amount may vary from one card to another. As these cards focus on reward points, cardholders get about 1,000 to 3,000 reward points as a welcome gift. Generally, cardholders will be required to use the reward points within a particular date, post which the points will expire. However, there are many reward credit cards that allow cardholders to save their reward points as long as they want.</p>
+<p><strong>Know More About&nbsp;<a href="/credit-card/rewards-credit-card-in-india.html">Rewards credit cards</a></strong></p>
+<p><h3>Utility Credit Cards: </h3>Many credit cards that are being issued these days offer cashback and reward points for those who use their card to pay utility bills. Choosing the right credit card will help you save big on your utility bills in the long run. You can use your card to pay your electricity bill, water bill, or your gas bills and earn reward points on every payment. You can redeem these reward points against flight tickets or buy merchandise from selected stores.</p>
+<p id="golfcards">However, to avail the benefits, it is important to pay your credit card bill on time. If you are unable to pay the total outstanding bill within the due date, interest will be levied and you will end up paying more than what you initially borrowed. So, the reward points you earn will not be beneficial compared to the additional interest rate you paid. However, if you use your credit card to pay utility bills, accumulate reward points, pay your bills on time, and redeem the reward points to shop or book tickets, you will benefit. Check the annual fees and other charges you will be required to pay before you use your card to pay your utility bills and use it only if it benefits you.</p>
+<p><strong>Know More About&nbsp;<a href="/credit-card/utility-credit-cards-in-india.html">Utility credit cards</a></strong></p>
+<p><h3>Golf Credit Cards: </h3>Whether you are an amateur golfer or a professional, there are certain credit cards that offer a wide range of golf benefits. These cards give cardholders access to many golf courses in India and abroad. With a gold credit card, cardholders get free membership to select golf courses. There are certain gold cards that allow their cardholders to avail free golf lessons at select golf clubs. For example, Citi Prestige Credit Card allows their cardholders to avail 4 free rounds of golf per year at 15 of the best golf clubs in India.</p>
+<p>Most of the credit card providers offer round-the-clock concierge assistance services to their golf cardholders. Golf credit cardholders also get exclusive spa benefits and holiday packages, depending on the type of card. Before choosing a credit card that will give you golf benefits, it is recommended to check the annual fees and other charges you will be required to pay. If the charges you pay are higher than the golf benefits the card offers, it is not advised to opt for a golf card. However, if the cost of maintaining the credit card is way lower than the benefits it offers, you can apply for a golf card. More than all the other factors, it is important to answer one question- Do you really love to play golf?</p>
+<p><strong>Know More About&nbsp;<a href="/credit-card/golf-credit-cards-in-india.html">Golf credit cards</a></strong></p>
+
+<h2>Credit Card FAQs</h2>
+<ol>
+  <li>
+    <strong>What is a credit card?</strong>
+
+
+
+    <p>A credit card can be used to purchase services and goods on borrowed credit from the bank that has issued the card. Every credit card comes with various privileges and benefits to suit the lifestyle of a customer.</p></li>
+
+
+  <li>
+    <strong>What are the key benefits that Premium credit cards offer?</strong>
+
+
+
+    <p>Premier credit cards are signature cards from banks which come with flexible spending limits, lifestyle privileges, travel benefits, cashback offers, VIP lounge access, concierge services emergency assistance and complimentary insurance cover. Most premium credit cards can be procured only through invitation.</p></li>
+
+
+  <li>
+    <strong>How is redemption done on a cashback credit card?</strong>
+
+
+
+    <p>The cashback that is earned by a customer can be automatically got as statement credit from the bank.</p></li>
+
+
+  <li>
+    <strong>How is a secured credit card issued by a bank?</strong>
+
+
+
+    <p>A secured credit card is generally issued against a fixed deposit, which has been placed by the customer while availing the card. Any minimum amount due or late payment fee that has to be paid will be taken from the deposit. Secured credit cards help customer build a good credit history</p></li>
+
+
+  <li>
+    <strong>How does a prepaid credit card work?</strong>
+
+
+
+    <p>A prepaid credit card works like a debit card, where the money is taken from an account associated with the card. Users can load cash on the prepaid credit card and can spend up to the available amount limit on the card.</p></li>
+
+
+  <li>
+    <strong>What are the features of a Business credit card?</strong>
+
+
+
+    <p>Business credit cards come with features like business savings plans, rewards programs, cash advance facility, lounge access and customers can also get their company name embossed on the card.</p></li>
+
+
+  <li>
+    <strong>How can a customer select the best suited card for himself?</strong>
+
+
+
+    <p>Any customer should select a credit card according to his everyday needs and lifestyle requirements. The privileges offered with a particular credit card should be beneficial and should add value to a customer.</p></li>
+
+
+  <li>
+    <strong>Can a credit card be procured by any individual in India?</strong>
+
+
+
+    <p>A credit card can be procured by an individual with a regular income and also having a good credit score. Most banks mandate that applicants should be above a certain age limit and should also meet a stipulated income criteria.</p></li>
+
+
+  <li>
+    <strong>What is the minimum criteria for applying a credit card in India?</strong>
+
+
+
+    <p>The minimum requirement to be met while applying for a credit card would be the age criteria. According to the bank, the age criteria varies from 18 to 21 years for a credit card approval to be got.</p></li>
+
+
+  <li>
+    <strong>What are the key benefits of the balance transfer option on a credit card?</strong>
+
+
+
+    <p>Customers can easily consolidate multiple credit card balances onto a single card and repay back with flexible tenure options at low interest rates.</p></li>
+
+
+  <li>
+    <strong>Do banks levy any balance transfer fees on customers choosing this option on their credit cards?</strong>
+
+
+
+    <p>Yes, most banks generally levy a certain percentage as processing fee, when a balance transfer on a credit card is done. The processing fee varies with different banks and customers have to pay this amount with the first monthly instalment.</p></li>
+
+
+  <li>
+    <strong>How can users check the available credit on their credit cards?</strong>
+
+
+
+    <p>Credit card holders can refer to their monthly statements to get the available credit limit. The other options offered to customers are via SMS banking or internet banking services. All banks provide these facilities, where customers can check the available credit by sending an SMS and receiving an alert or by accessing the statements on their internet banking accounts.</p></li>
+
+
+  <li>
+    <strong>What are the highlights of the introductory period of a credit card balance transfer?</strong>
+
+
+
+    <p>When a credit card balance transfer is done, every bank offers an interest free introductory period to the credit card holder. This interest free payment period ranges from 3 to 6 months after which the card holder has to repay the instalments with an additional interest rate.</p></li>
+
+
+  <li>
+    <strong>What are the type of purchases that can be made using a credit card?</strong>
+
+
+
+    <p>A credit card can be used to purchase goods, book travel tickets, perform online transactions and also make reservations for services.</p></li>
+
+
+  <li>
+    <strong>Do credit card issuers in India offer co-branded credit cards?</strong>
+
+
+
+    <p>Yes, there are various co-branded credit cards available in the market from different card issuers. The privileges available in a co-branded credit card are generally determined by the issuing bank.</p></li>
+
+
+  <li>
+    <strong>Can customers increase the predetermined credit limits on their credit cards?</strong>
+
+
+
+    <p>Yes, most banks give the option of increasing the credit limit available based on the usage pattern. Sometimes the banks might automatically increase the credit limit after reviewing the customerâ€™s spending pattern. Otherwise if a cardholder wishes to increment the credit limit, then a special request has to be placed with the concerned bank.</p></li>
+
+
+  <li>
+    <strong>What is a Purchase introductory rate?</strong>
+
+
+
+    <p>The purchase introductory rate is the low interest rate that is offered during the first few months of the credit card usage. This introductory rate is generally given to customers with good credit scores. These rates might be applied only to purchase transactions or balance transfers done by the card holder.</p></li>
+
+
+  <li>
+    <strong>Do credit cards come with specific cash withdrawal limits?</strong>
+
+
+
+    <p>Yes, most credit cards come with preset cash withdrawal limits, which is generally communicated by the bank to the customer at the time of approval. Banks might also levy additional withdrawal charges on every transaction done at an ATM within India or abroad.</p></li>
+
+
+  <li>
+    <strong>How does a credit card work as a cashless payment instrument?</strong>
+
+
+
+    <p>A credit card is a payment card issued by a particular bank for customers looking to avail instant credits to easily purchase goods and services without spending a single penny from their pockets. The bank extends a line of credit with which the user borrows money, to be paid to a merchant. The cardholder is required to pay back the borrowed sum of money subsequently to the lender bank along with extra interest rates.</p></li>
+
+
+  <li>
+    <strong>How do I own a credit card in India?</strong>
+
+
+
+    <p>Customers need to get in touch with an executive from a bank of their choice and submit a filled-in application form with the required documents. The bank will process your application after appraising your credit history and will then approve the new credit card according to your requirements.</p></li>
+
+
+  <li>
+    <strong>How important is it to understand the interest rate charged by a bank on a particular credit card?</strong>
+
+
+
+    <p>In India, banks charge the highest rate of interests for credit cards, from 36% to 42% per annum. A bank decides the interest rate for a particular customer based on his credit history, financial capability and also depending on the type of card he chooses. Applicants with good credit scores and regular payment patterns get the best deals on their credit card interest rates.</p></li>
+
+
+  <li>
+    <strong>What are the different payment networks utilized by banks in India for credit card transactions?</strong>
+
+
+
+    <p>Banks in India have tied up with Visa, MasterCard and American Express (AMEX) to process credit card payments, connecting merchant accounts with the acquiring banks.</p></li>
+
+
+  <li>
+    <strong>What are the eligibility requirements to be fulfilled while acquiring a credit card?</strong>
+
+
+
+    <p>In India, banks generally offer credit cards to individuals above the age of 21 and with a steady monthly income. As part of their verification process, banks do a deep dive into the customerâ€™s credit history and assess previous payment patterns to understand the customerâ€™s financial situation. Only after ensuring that the applicant has the financial capability to repay the expenses incurred using a credit card, will the bank approve the customerâ€™s application.</p></li>
+
+
+  <li>
+    <strong>Is there a minimum salary criterion required to be met while applying for credit cards in India?</strong>
+
+
+
+    <p>Yes, in India applicants are required to earn a minimum of Rs 75,000 to 1 Lakh per annum, though this criterion varies depending on the type of the card.</p></li>
+
+
+  <li>
+    <strong>What does APR refer to with respect to a credit card?</strong>
+
+
+
+    <p>Annual Percentage Rate (APR) or the â€˜â€™costâ€™â€™ at which a customer takes credit from a bank, is the simple interest rate charged by a bank on expenses incurred on a credit card for a year.</p></li>
+
+
+  <li>
+    <strong>Do banks levy any charges for late payment of credit card bills?</strong>
+
+
+
+    <p>The best mantra while managing a credit card is to â€˜â€™Pay as and when you canâ€. Delaying a credit card payment is not a wise option, as banks tend to impose high late payment fees and gradually increase the interest rates charged. The customer would actually end up paying way more than his original purchase amount.</p></li>
+
+
+  <li>
+    <strong>Do add-on or supplementary cards carry the same features as their primary</strong> <strong>credit cards? </strong>
+
+
+
+    <p>Add-on cards can be taken for family members of the primary card holder with extra charges anywhere between Rs 125 to Rs 1000. The credit limit of the primary card gets carried over to the new card with similar features. Also customers can get a comprehensive bill with details of both the cards.</p></li>
+
+
+  <li>
+    <strong>How do global cards help a frequent traveller?</strong>
+
+
+
+    <p>Global credit cards give a customer the leeway of instantly performing cashless transactions from any corner of the globe. Accepted worldwide, global cards give you the flexibility of spending in any foreign currency and later paying your bills in your local currency. A customer can also avoid the hassle of carrying huge amounts of cash or using travellerâ€™s checks.</p></li>
+
+
+  <li>
+    <strong>What do credit card reward programs offer?</strong>
+
+
+
+    <p>Credit card reward programs have been introduced by lenders to popularize the various cards they offer by rewarding a customer for transacting using their credit card. The cardholder is awarded points as per his expenditure for purchasing goods and services. The accumulated points can later be redeemed by customers for certain discounts and gifts as per the bankâ€™s guidelines.</p></li>
+
+
+  <li>
+    <strong>What measures are Indian banks required to take to avoid credit card fraud?</strong>
+
+
+
+    <p>The Reserve Bank of India mandates the provision of multiple levels of authentication from banks, for customers using credit cards to make an online purchases. Additionally, customers are advised by banks to use their credit card credentials only in encrypted internet connections to avoid fraudulent transactions.</p></li>
+
+
+  <li>
+    <strong>How does the cash advance facility help an Indian credit card holder?</strong>
+
+
+
+    <p>Customers can also use their credit cards as ATM cards and withdraw a stipulated amount of cash, preset by the bank as cash advance. Though this feature gives a customer access to instant cash, the bank charges very high interest rates for credit taken using this facility.</p></li>
+
+
+  <li>
+    <strong>What are the different online and offline modes available to customers for making credit card bill payments?</strong>
+
+
+
+
+    <p>A. Customers can make outstanding credit card bill payments using the following online modes - Net Banking, NEFT / RTGS Transfers, Debit Cards, Mobile Applications, Standing Instructions, Visa Money Transfer, Bill Desk, etc. Offline modes include cash, cheques, demand drafts, etc.</p></li>
+</ol>
+
+
+<div class="row btm-pad twi-accordion col-md-12 ">
+  <div id="accordion" class="panel-group">
+
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h2 class="panel-title"> <a href="#26Jul17111700" data-parent="#accordion" data-toggle="collapse"  class="accordion-toggle collapsed">
+          Credit Card Tips</a></h2>
+      </div>
+      <div class="panel-collapse" id="26Jul17111700" >
+        <div class="panel-body">
+
+          <div class="col-md-12 list-group-item list-group-green" style="text-align:center">
+            <h3>What Happens after I Swipe My Credit Card at a Merchantâ€™s POS Machine?</h3>
+            <p>Of course, the million dollar question. While the mechanics of using a credit card on a day-to-day basis isnâ€™t too complicated, the associated back-end process associated with a simple card swipe is too technical for a common individual to comprehend. In actuality, the procedure is very simple and safe-</p>
+            <ol>
+              <li>Purchase over, you hand the credit card to the retailer to pay for your purchase. He swipes, with an accompanying smile, of course.</li>
+              <li>The merchantâ€™s <strong>Point of Sale (POS)</strong> system is connected to the merchantâ€™s bank via a communication link.</li>
+              <li>Thanks to the POS system, your details are verified in real-time using the electronic verification system by the merchantâ€™s bank. The verification is with regards to your credentials, validity of the card and availability of sufficient balance to pay for the purchase.</li>
+              <li>Post the verification from the merchantâ€™s bank, the details are forwarded to your bank for payment authorization if all the information is in order.</li>
+              <li>When the merchantâ€™s bank receives this authorization, it blocks the requisite amount from your credit limit to account for the purchase later on. Next, it generates an approval code that is transmitted to the merchant.</li>
+              <li>At the merchant outlet where you stand for the clearance to affect quickly, the retailer receives this code and must key it in to obtain two charge slip copies from the POS system. One of these slips signifies your agreement with the card issuing bank to pay for the current purchase. You sign on this slip and return it back to the retailer. The other copy is yours to take away from this transaction.</li>
+              <li>Safe, comprehensive and fast, all of these steps were affected in less than 2 minutes. Neat, right?</li>
+            </ol>
+
+            <p>Borrowing from a popular axiom, â€˜With great power comes great responsibilityâ€™, and the same holds very true in the case of credit cards. While a handy financial help, a source of ready cash and a safe and beneficial way to pay for your purchases, the misuse of this facility could be detrimental to your long term financial health. Credit card debt, defaulting on your monthly repayments or drawing up a massive pile of credit card purchases and consequently, a stiff interest rate are things to be constantly aware of. The best way to enjoy your credit card is responsibly and with caution and tolerance. While the temptation may be high to unleash a shopping spree with your brand new credit card, remember, the money you spend is not your own- it must be returned back, with interest and on time!!</p></div>
+
+
+
+          <div class="col-md-12 list-group-item list-group-green" style="text-align:center">
+            <h3>Important Notes on Credit Card</h3>
+            <p> Use your Credit Card wisely to positively impact your Credit Score. <strong>Paying only the minimum due, maxing out your credit limit, skipping payment due to a dispute</strong> and <strong>multiple rejected applications</strong> affect your Credit Score negatively. Avoid these and your Credit Score will thank you for it. Ready? Check out our Credit Card offers!</p>
+            <p>After the demonetisation drive, a large number of people have started using their Credit Cards. News reports state that Credit Card usage has gone up by 40%, swipes below Rs. 500 have spiked by 65% and those more than Rs. 500 have gone up by 75%. Banks are seeing an increase in Credit Card applications. To avoid the rush, apply today! We have plenty of cards to choose from.</p>
+            <p> Going overboard with your Credit Card can dent your wallet. We have some advice for you. Follow a strict budget, pay more than the minimum amount due, try balance transfer and clear high-interest debt first - you're set! Take a look at our amazing Credit Card offers.</p>
+            <p>Did you know that your payment history plays a big role in determining your Credit Score? Every time you miss a payment or delay one, you're putting your Credit Score at risk. The good news, however, is that you can improve your payment history and rebuild your Credit Score over time with the help of a Credit Card. Don't have one? Take a look at our offers.</p>
+          </div>
+
+          <div class="col-md-12 list-group-item list-group-blue" style="text-align:center">
+
+            <h4>How a Credit Card can boost your confidence</h4>
+            <p>Did you know that a Credit Card can help you bring back your lost confidence? Hereâ€™s how to use your card to boost your self-esteem: (If you would rather check out our offers, you know what to do)</p>
+            <p><strong>Itâ€™s Salon Time</strong></p>
+            <p>Ladies and gentlemen, an image makeover from head to toe can help boost your self-esteem</p>
+            <p><strong>New Clothes. Woohoo!</strong></p>
+            <p>Well, the beautification part is done. Now, itâ€™s time to change your wardrobe. The clothes you wear reveal a lot about yourself.</p>
+            <p><strong>Pump Some Iron</strong></p>
+            <p>A positive body image can boost your confidence. Hit the gym, enrol for Zumba classes or kickboxing, or jog in the park.</p>
+            <p><strong>Hang Out More Often</strong></p>
+            <p>No more cash worries to stop you from hanging out with people. Go out, enjoy with your friends and let your Credit Card take care of the bill.</p>
+            <p>All it takes is a Credit Card to save your dying self-esteem. Apply now and get your confidence back.</p>
+            <p><em> 16th April 2018 </em></p>
+          </div>
+
+          <div class="col-md-12 list-group-item list-group-orange" style="text-align:center">
+            <h3>Tips to protect your Credit Card</h3>
+            <p>Here's how to avoid physical damage to your Credit Card and ensure a long, healthy life.</p>
+            <p><strong>Magnetic Strip</strong></p>
+            <p>The most important part of your card is the magnetic strip on it. Exposing it to magnets or strong magnetic fields might stop the card from working. Keep it safe.</p>
+            <p><strong>Extreme Temperatures</strong></p>
+            <p>Too much heat or cold isn't good for your card. Room temperature - cool!</p>
+            <p><strong>No Bending</strong></p>
+            <p>Avoid storing your card in a location or manner that will result in bending or scratching the card.</p>
+            <p><strong>Protective Cover</strong></p>
+            <p>Most banks provide a protective sleeve along with the Credit Card to store it in. Use it.</p>
+            <p>It isn't all that difficult, right? Just some precaution and your card will stay with you for a long time. Take a look at our offers on Credit Cards.</p>
+            <p><em> 17th March 2018</em></p>
+          </div>
+
+          <div class="col-md-12 list-group-item list-group-blue" style="text-align:center">
+
+            <h3>Lesser known Credit Card facts</h3>
+            <p>Applying for a Credit Card and using it are fairly simple tasks. But is that all there is to it? Read on to find out a few lesser-known facts about Credit Cards. Don't have a card yet?</p>
+            <p><strong>Impacts Two Aspects Of Your Credit Report</strong></p>
+            <p>Credit Cards rule your Credit Score. Your payment history has a 35% impact on your Credit Score and the credit utilisation metric has a 30% impact. Your Credit Card usage impacts both.</p>
+            <p><strong>Cover All Bases</strong></p>
+            <p>Make sure that your Credit Card issuer reports your credit activities to all four credit bureaus in India. Not all card issuers share information with all the four bureaus.</p>
+            <p><strong>An Unpaid Credit Card Bill Doesn't Affect Your Score</strong></p>
+            <p>Bogus! Not paying your Credit Card dues will only send your Credit Score spiralling downwards. Always pay your dues in full if you want to see your score in the elite 750+ range.</p>
+            <p><strong>Closing A Credit Card Account Is Not Always Good</strong></p>
+            <p>Closing a Credit Card account can reduce the total credit available to you. This can raise your credit utilisation ratio above the acceptable 30% mark and bring down your Credit Score.</p>
+            <p>Get a Credit Card that suits your lifestyle, spend wisely and pay your dues on time. Then watch the magic unfold.</p>
+            <p><em> 14th March 2018 </em></p>
+
+          </div>
+
+          <div class="col-md-12 list-group-item list-group-orange" style="text-align:center">
+            <h3>Paperless Approval on Credit Cards</h3>
+            <p>We bet you can't resist these Paperless Credit Card Offers. Challenge accepted?</p>
+            <p><strong>HSBC Visa Platinum Credit Card</strong></p>
+            <p>For starters, how about a Credit Card with zero joining fee? Yes, you heard it right. It offers free airport lounge visits too!</p>
+            <p> <strong>SBI Simply Click Card</strong></p>
+            <p>Hooked on online shopping? This card offers 5X reward points for all online spends. Also, earn 10X reward points on spends with exclusive partners. What're you waiting for?</p>
+            <p><strong>IRCTC SBI Platinum Card</strong></p>
+            <p>Bitten by the travel bug? This card treats you with exclusive privileges & great travel packages from IRCTC. Also, earn a reward point on every Rs. 125 you spend. Who doesn't want that?</p>
+            <p><strong>HDFC Diners Club Rewardz Credit Card</strong></p>
+            <p>Want to feel special? This card will spoil you silly with lots of rewards on airline tickets, air miles, dining & more.</p>
+            <p>Also, get one-day approval on all of these cards. Good things don't last for long. Grab these offers NOW! Uh-oh, not eligible for these cards? Cheer up! We have other equally amazing Credit Card offers exclusively for you!</p>
+            <p><em> 7th March 2018</em></p>
+          </div>
+
+
+          <div class="col-md-12 list-group-item list-group-green" style="text-align:center">
+            <h3>Credit Card Benefits</h3>
+            <p>You thought a Credit Card was all about using credit and paying bills? Nah! Credit Cards can actually be rewarding.</p>
+            <p>Batman may not have superpowers, but his alter ego is a financial superpower in his own right. Hereâ€™s how a Credit Card could unlock your financial superpowers as well. Give it a shot?</p>
+            <p><strong>Get Rewarded</strong></p>
+            <p>Credit Cards give you reward points every time you swipe. Redeem these points for goodies! Cards like SBI Simply Save Card give you 2000 points as joining bonus.</p>
+            <p><strong>Get It All Back</strong></p>
+            <p>Cashback Credit Cards can give you cash back on selected purchases. With the Kotak Delight Credit Card, get cash back on all dining and movie spends.</p>
+            <p><strong>Itâ€™s Complimentary</strong></p>
+            <p>You could get fuel surcharge refunds, shopping coupons and more with your Credit Card. Try the Indusind Platinum Aura Edge VISA Card.</p>
+            <p><strong>Fly Away</strong></p>
+            <p>Frequent Flyer? Get free flight tickets using your Credit Card! With the Jet Airways American Express Card, you get one-way complimentary Jet Airways Base Fare waived domestic ticket on your first charge.</p>
+            <p><strong>Build Your Credit Score</strong></p>
+            <p>Paying your Credit Card bills regularly and on time can ramp up your Credit Score faster than Alfred stitches Batman up after a fight. </p>
+            <p><strong>Afford Huge Purchases</strong></p>
+            <p>With a Credit Card, you could buy big-ticket items and pay back the amount in instalments. Legend has it that Batman is almost done paying off the instalments on his Batmobile.</p>
+            <p><strong>Itâ€™s Convenient</strong></p>
+            <p>Did you know Batman sits on rooftops every night looking for his lost wallet? With a Credit Card, you donâ€™t have to carry a wallet full of cash everywhere you go. Just slip it in your pocket.</p>
+            <p><strong>Track Your Expenses</strong></p>
+            <p>Even Batman needs to keep track of how he spends his fortune. Credit Card statements can help you track your expenses and help you budget better over time.</p>
+            <p>Get your Credit Card from us and we will make it even more rewarding for you. Go on and explore!</p>
+            <p> 7th December 2017</p>
+          </div>
+
+
+
+          <div class="col-md-12 list-group-item list-group-green" style="text-align:center">
+            <p><strong>You must N.E.V.E.R. use your Credit Card for these</strong></p>
+            <p>There are things you must never use your plastic buddy to pay for. To make your life simpler, hereâ€™s the list. In case youâ€™re still looking for a card, we can help:</p>
+            <p><strong>Big Ticket Items</strong></p>
+            <p>Credit Card for big ticket purchases? Bad idea! Think about your budget before burdening yourself with a huge debt.</p>
+            <p><strong>High-end Clothing Brands</strong></p>
+            <p>Splurging on clothes that you canâ€™t really afford is a very bad idea. Remember, you still have to repay the bank.</p>
+            <p><strong>Teleshopping</strong></p>
+            <p>What looks good on TV might not look as good in reality. Think twice before spending on all those fancy gadgets.</p>
+            <p> <strong>Fine Dine</strong></p>
+            <p>Frequent fine dine can make you whine. Pamper yourself once in a while, but donâ€™t become a reckless card-swiping ninja.</p>
+            <p><strong>These are things you shouldnâ€™t buy using a Credit Card. But thereâ€™s still a whole list of things you can buy. Pick your card and get started now.</strong></p>
+            <p><em> 6th September 2017 </em></p>
+          </div>
+
+
+          <div class="col-md-12 list-group-item list-group-green" style="text-align:center">
+
+            <p><strong>Can you handle a Credit Card?</strong></p>
+            <p> Did you know that some people can't really handle a Credit Card? Listed below are the most common types who donâ€™t make the cut. If you think you're a responsible user, please take a look at our awesome offers.</p>
+
+
+            <p><strong>The Shambolic Lot</strong></p>
+
+            <p>Theyâ€™re disorganised bill payers or they pay only the minimum amount due every month. Chronically irresponsible, we say.</p>
+
+            <p><strong>The Reckless Spender</strong></p>
+
+            <p> These guys love to spend money. And they never think twice before spending too.</p>
+
+            <p><strong>The Ignorant Bunch</strong></p>
+
+
+            <p>They donâ€™t care enough to learn how a Credit Card works. And sadly, thatâ€™s why they mess up.</p>
+            <p><strong>The Careless College-goers</strong></p>
+
+            <p> They're inexperienced. And they're usually on a tight budget. A Credit Card is clearly not for them.</p>
+
+            <p><strong>Donâ€™t fit in any of the above? Go ahead and get yourself a Credit Card.</strong></p>
+
+
+            <p><em>23rd August 2017 </em></p>
+
+
+          </div>
+
+
+
+          <div class="col-md-12 list-group-item list-group-blue" style="text-align:center">
+
+
+
+            <p><strong>Four REASONS to go cashless</strong></p>
+
+            <p> Cash remains the preferred choice of payment for most of us. However, going cashless is a better option. Weâ€™ll tell you why. If you agree, explore our offers right away.</p>
+            <p><strong>Goodbye, Queue</strong></p>
+            <p>Tired of queuing just to withdraw money to pay for your food delivery? How about paying online using your Credit Card, Debit Card or any digital wallet the next time?</p>
+            <p><strong>Ciao, Cheques</strong></p>
+            <p>Getting paid via cheques is a headache. In a cashless society, you donâ€™t have to go to the bank to deposit the cheque or wait for cheque to be credited. Quick money, it is!</p>
+            <p><strong>Au Revoir, Risk</strong></p>
+            <p>When you go cashless, there is less risk as compared to carrying a lot of currency notes in your wallet or bag.</p>
+            <p><strong>Adios, Fraud</strong></p>
+            <p>A cashless mechanism can help plug the loopholes in the public systems, prevent black money, smother grey economy and increase tax compliance.</p>
+            <p><strong>Donâ€™t you think cashless transactions are better than dealing with cash? Get yourself a Credit Card and make the move now.</strong></p>
+
+
+            <p><em> 17th August 2017 </em></p>
+
+
+          </div>
+
+
+          <div class="col-md-12 list-group-item list-group-orange" style="text-align:center">
+
+
+
+            <h3>How a Credit Card can boost your confidence</h3>
+
+            <p>Did you know that a Credit Card can help you bring back your lost confidence? Hereâ€™s how to use your card to boost your self-esteem: (If you would rather check out our offers, you know what to do)</p>
+            <p><strong>Itâ€™s Salon Time</strong></p>
+            <p>Ladies and gentlemen, an image makeover from head to toe can help boost your self-esteem.</p>
+            <p><strong>New Clothes. Woohoo!</strong></p>
+            <p>Well, the beautification part is done. Now, itâ€™s time to change your wardrobe. The clothes you wear reveal a lot about yourself.</p>
+            <p><strong>Pump Some Iron</strong></p>
+            <p>A positive body image can boost your confidence. Hit the gym, enrol for Zumba classes or kickboxing, or jog in the park.</p>
+            <p><strong>Hang Out More Often</strong></p>
+            <p>No more cash worries to stop you from hanging out with people. Go out, enjoy with your friends and let your Credit Card take care of the bill.</p>
+            <p> All it takes is a Credit Card to save your dying self-esteem. Apply now and get your confidence back.</p>
+
+
+          </div>
+
+
+
+
+
+          <div class="col-md-12 list-group-item list-group-blue" style="text-align:center">
+
+            <h3>4 Reasons Why Credit Cards Rule</h3>
+            <p>Some say that Credit Cards are the new way of life. Now that may be a little far-fetched but Credit Cards are definitely becoming everybodyâ€™s favourite. Here are the reasons why:</p>
+            <p><strong>Helps Beat the Rising Cost Of Living</strong></p>
+            <p>Spendthrifts say Credit Cards lead to debt. The rest are using their cards to earn rewards, cashback and special discounts on purchases, cushioning the pressure arising out of the rising cost of living.</p>
+            <p><strong>Affords You Luxury</strong></p>
+            <p>Everything is sold at a marked-up price nowadays and paying in full will definitely burn a big hole in your pocket. Smart Credit Card users break their big buys into affordable EMIs.</p>
+            <p><strong>Best Form of Instant Loan</strong></p>
+            <p>Instead of borrowing, wise people pay for small, unexpected expenses with their Credit Card. There is a grace period from your time of purchase to the payment due date in which you can pay it all off without any interest.</p>
+            <p><strong>Keep Track Of Every Penny</strong></p>
+            <p>A  Credit Card statement is a record all your purchases. Study it every month and youâ€™ll be able to plug the leaks before they become too big.</p>
+
+            <p><strong>Weâ€™ve always said that Credit Cards make excellent financial friends. Get a card, utilise it wisely and youâ€™ll know it yourself. Go on!</strong></p>
+
+          </div>
+
+
+          <div class="col-md-12 list-group-item list-group-orange" style="text-align:center">
+
+
+            <h3>Unlock happiness: Get a Credit Card</h3>
+            <p>â€˜Money canâ€™t buy happiness.â€™ We beg to differ. With everyone going cashless, itâ€™s time to join the brigade. Get a Credit Card, mate!</p>
+            <p><strong>Experiences Matter</strong></p>
+            <p>Spending on experiences rather than material things tends to make you happier. For example, shopping alone versus a hiking trip with friends. What makes you happier?</p>
+            <p> <strong>A Smile Is Worth Millions</strong></p>
+            <p>Do something to make someone smile. Being the reason for someone elseâ€™s happiness is a great feeling. Every little effort counts.</p>
+            <p><strong>Buy Time and Use It</strong></p>
+            <p>Weâ€™re not talking about a time machine, duh! Take a vacation with the ones who matter to you or go solo. Travelling can make you happy.</p>
+            <p><strong>Little Joys > Expensive Stuff</strong></p>
+            <p>Spend more on the simple joys of life. A long drive, your favourite ice cream and someone you love. It beats shopping for expensive stuff.</p>
+
+            <p><strong>See? Money can make you happy if you use it right - with the perfect Credit Card, of course!</strong></p>
+
+
+
+          </div>
+
+
+
+          <div class="col-md-12 list-group-item list-group-green" style="text-align:center">
+
+
+            <h3>4 STEPS to Choose the Right Credit Card</h3>
+            <p>Choosing the right Credit Card is as easy as 1-2-3. We tell you how. Or wait! Do you already know how to choose a Credit Card that suits your needs?</p>
+            <p><strong>Annual Fee</strong></p>
+            <p>If you hate charges, choose one with zero annual fees. Annual fees can go as high as Rs. 9,999 but you get a bunch of benefits, unlike free cards.</p>
+            <p> <strong>Rewards</strong></p>
+            <p>Fuel surcharge waiver - check. Cashback - check. Reward points - check. Free vouchers - check. Choose the card that gives you the rewards that you want.</p>
+            <p><strong>APR</strong></p>
+            <p>Annual Percentage Rate (APR) is the interest charged on your Credit Card balance. The lower the APR, the better.</p>
+            <p><strong>Joining Bonus</strong></p>
+            <p>Who doesnâ€™t love being pampered? Most cards give you vouchers, reward points or free movie/air tickets as joining bonus. Choose one that works for you.</p>
+
+            <p><strong>Got wiser? Then, start exploring our many Credit Cards that offer you a world of benefits that you so deserve.</strong></p>
+
+
+
+          </div>
+
+
+
+
+
+          <div class="col-md-12 list-group-item list-group-orange" style="text-align:center">
+
+
+            <h3>Effective TIPS to use your Credit Card</h3>
+            <p>Using a Credit Card requires a little more than swiping and punching the PIN. It takes some self-control and some thought. Here are some tips to keep in mind. You could take a look at our offers in the meantime.</p>
+            <p><strong>Make Small Purchases</strong></p>
+            <p>Once you get a Credit Card do not let it sit idle. Make small purchases, which can be easily repaid. This will help you build a good credit score.</p>
+            <p> <strong>Balance Control</strong></p>
+            <p>Using up all your credit every month is not ideal financial behaviour. Stick to utilising 30-35 percent of your credit limit. Itâ€™ll enhance your Credit Score.</p>
+            <p><strong>Take It Easy</strong></p>
+            <p>You can have as many Credit Cards as you like. Just be mindful to leave a gap of a few months between each application. You donâ€™t want to appear desperate, do you?</p>
+            <p><strong>Guard It with Your Life</strong></p>
+            <p>Your Credit Card details are precious. Once you get your card, do not flash it around. Keep it securely in your wallet and do not divulge the PIN to anybody.</p>
+
+            <p><strong>With these tips, you should be ready to get a Credit Card. Get started, right away.</strong></p>
+
+
+
+          </div>
+
+
+
+
+          <div class="col-md-12 list-group-item list-group-green" style="text-align:center">
+
+
+            <h3>4 Credit Card T.I.P.S. for 2017</h3>
+            <p>2016 taught us the value of Credit Cards and a cashless economy. Here are some handy Credit Card tips before you get your plastic mate. Already an expert?</p>
+            <p><strong>Pay Bills in Full</strong></p>
+            <p>Donâ€™t eye that â€˜Minimum Amount Dueâ€™ figure on your Credit Card. Go all out and clear the bill in full.</p>
+            <p> <strong>Opt For Balance Transfer</strong></p>
+            <p>If youâ€™ve got hefty Credit Card dues, think of opting for a Credit Card balance transfer. Move to a new card issuer offering a lower interest rate on dues.</p>
+            <p><strong>Research Well</strong></p>
+            <p>Get the right Credit Card for yourself. A Travel Card for the globetrotter, a Cashback Card for the shopaholic. You get it, donâ€™t you? Make the perfect choice and save big.</p>
+            <p><strong>Direct Debit</strong></p>
+            <p>No need to fret about payment due dates any more. Give instructions for a direct debit to your bank and automate your Credit Card bill payments. Easy-peasy.</p>
+
+            <p>Always remember, good credit habits mean a good Credit Score. Are you set for a Credit Card now?</p>
+
+
+          </div>
+
+          <div class="col-md-12 list-group-item list-group-orange" style="text-align:center">
+
+
+            <h3>How a Credit Card can help start a B.U.S.I.N.E.S.S.</h3>
+            <p>Do you know a Credit Card (or two) can help you start a business? Here are some tips:</p>
+            <p><strong>Buy a Website</strong></p>
+            <p>Setting up a website is the best way to tell people about your business. Buying a domain is not too expensive and doing so with your Credit Card can earn you reward points.</p>
+            <p><strong>Set It Up</strong></p>
+            <p>You might need some furniture and stationary to set up your office, even if itâ€™s a room in your home. Use your Credit Card to purchase the necessary items and earn cashback.</p>
+            <p><strong>Flier Miles</strong></p>
+            <p>Get an Airlines Credit Card if your work demands travelling. The joining bonus in the form of flier miles and discounts on hotels will help you lower the operating cost of your business. </p>
+            <p> <strong>Build a Credit Score</strong></p>
+            <p>You can beef up your Credit Score by paying your dues on time. A good Credit Score will help you get amazing deals on Business and Personal Loans too.</p>
+
+            <p><strong>You can explore our range of Credit Cards and get the one that best fits your business requirements.</strong></p>
+
+
+
+
+
+
+          </div>
+
+
+
+          <div class="col-md-12 list-group-item list-group-green" style="text-align:center">
+
+            <h3>
+              Credit Card Tips for Beginners</h3>
+            <p> If demonetisation made you get your first Credit Card, youâ€™re probably still wondering how to use it well. Here are some useful tips for all you beginners. Interested in a second?</p>
+            <p><strong>Stay Within the Budget</strong></p>
+            <p>Owning a Credit Card doesnâ€™t mean that you go overboard. Make sure you stop swiping as soon as you cross your budget.</p>
+            <p><strong>Donâ€™t Cut Corners</strong></p>
+            <p>Your Credit Card bill will give you the option to pay a minimum amount or the full amount. Pay the full amount. Making part payments will attract interest on the unpaid amount.</p>
+            <p><strong>Stay Within your Means</strong></p>
+            <p>Banks consider your finances thoroughly before setting your credit limit. Donâ€™t ask for an increase until there is a marked increase in your income.</p>
+            <p><strong>Stay Cashless</strong></p>
+            <p>Credit Cards give you the option to withdraw cash from ATMs. Donâ€™t consider it unless itâ€™s an emergency as the interest on withdrawals is high.</p>
+            <p><strong>Using a Credit Card is very simple. If you still donâ€™t have one, donâ€™t hesitate. Apply now and youâ€™ll learn the advantages as you go along.</strong></p>
+
+          </div>
+
+
+          <div class="col-md-12 list-group-item list-group-green" style="text-align:center">
+
+            <h3>Credit Cards to match your profile</h3>
+            <p>Havenâ€™t got your Credit Card yet because you think it is unsafe? Allow us to change your views. Or are you looking for the one that best matches your profile? Letâ€™s help.</p>
+            <strong>Set Limits</strong>
+            <p>Banks allow you to set geographic limits to use your card. There is no chance of your card getting used in Timbuctoo by a hacker.</p>
+            <strong>On And Off</strong>
+            <p>Banks provide you with apps that you can use to block and unblock your card. Itâ€™s as easy as switching on and switching off your television.</p>
+            <strong>Fix a Number</strong>
+            <p>You can fix a daily transaction limit for your Credit Card. This way, you can lend your card to the most irresponsible of your friends without worrying about misuse.</p>
+            <strong>Place Restrictions</strong>
+            <p>You can choose merchant categories that your card can be used at. Great way to curb that shopping impulse that your spouse has, eh?</p>
+
+            <p>Now that security is sorted, shall we take a look at your offers? We have plenty of them!</p>
+
+
+          </div>
+
+
+          <div class="col-md-12 list-group-item list-group-orange" style="text-align:center">
+
+            <h3>Why Cashback Credit Cards Are Popular</h3>
+            <p>Whatâ€™s the fuss all about, huh? Letâ€™s show you why.</p>
+            <strong>Reward #1</strong>
+            <p>You can save up to 10% on your regular expenses including phone bills. Pile it on.</p>
+            <strong>Reward #2</strong>
+            <p>Get free movie tickets by swiping your cashback card regularly. More spending = More movies</p>
+            <strong>Reward #3</strong>
+            <p>Get up to Rs. 10,000 off on hotel bookings. Costless travel? Hell, yes!</p>
+            <strong>Reward #4</strong>
+            <p>Most cashback card issuers offer <strong>free</strong> joining reward points. More points mean more goodies.</p>
+            <p>Go on, explore our myriad cashback cards and take home one you love.</p>
+
+          </div>
+
+          <div class="col-md-12 list-group-item list-group-green" style="text-align:center">
+
+
+            <p><strong>Shop Better With a Credit Card</strong></p>
+
+            <p>Shopping gets better with a Credit Card. You can <strong>get rewards</strong>, <strong>choose to pay in EMIs</strong>, <strong>get cashback</strong> and <strong>save money with</strong> <strong>great discounts</strong>. Still looking for a Credit Card? </p>
+
+
+
+            <p><strong>Raining Rewards </strong></p><p> There are so many Credit Cards that give you amazing rewards when you shop. Why do you need cash? </p><p> <strong> Smart EMIs</strong></p><p> Havenâ€™t got enough cash for that purchase? With a Credit Card, you can choose to pay in installments that are easy on your pocket. </p><p> <strong> Cashback? Yes!  </strong></p><p>Credit Cards also give you cashback discounts. Are you still waiting to start shopping?  </p><p> <strong>Discounts</strong></p><p> If you shop with a Credit Card, get ready to enjoy discounts on online shopping websites. Shop more, save more.</p>
+
+
+          </div>
+          <div class="clearfix"></div>
+
+          <div class="col-md-12 list-group-item list-group-green" style="text-align:center">
+
+            <p style="text-align: center;"><strong>Credit Card Shopping Checklist </strong></p>
+            <p>Credit Cards are a convenient financial option if you don&rsquo;t want to carry too much cash with you on that shopping spree. Here are a few factors to consider when you choose your perfect Credit Card.</p>
+            <p><strong>Interest Rates</strong></p>
+            <p>Interest on your Credit Card is charged on a yearly basis. It is a fee that you pay for using the card. It&rsquo;s a good idea to opt for a card with a fixed interest rate that remains the same every month.</p>
+            <p><strong>Annual Fees</strong></p>
+            <p>Credit Cards have an annual fee that is charged to the cardholder. Some charges that are included as a part of the annual fee are late payment charges, cash advances, any requests for increased credit limit and balance transfer.</p>
+            <p><strong>Grace Period </strong></p>
+            <p>A grace period is the number of days you will get to pay your Credit Card bill after the due date. The grace period is usually 30-50 days to clear any outstanding dues.</p>
+            <p><strong>Cash Withdrawal </strong></p>
+            <p>Credit Cards come with an ATM PIN so that you can get cash through your Credit Card from an ATM. But, remember that cash withdrawals on your Credit Card attract high interest rates.</p>
+            <p style="text-align: center;">Have you found a Credit Card that suits you yet?</p>
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+
+
+  </div>
+</div>
+
+
+
+
+
+
+
+<div class="clearfix"></div>
+
+
+<div class="row btm-pad">
+  <div class="col-md-12">
+    <div class="video-section"><iframe class="video-frame" width="300" height="150" title="how to apply credit card"allowfullscreen="allowfullscreen" data-src="https://www.youtube.com/embed/8XPdzwIsskQ?rel="0"></iframe></div>
+  </div>
+</div>
+
